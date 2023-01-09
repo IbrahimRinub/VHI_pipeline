@@ -1,0 +1,2399 @@
+CONSULTANT,INSURECODE,INSURECON,BILLTEXT
+101.0,ILH ,V01262  ,"Dr. D. Molyneux,                        "
+101.0,LAYA,30139   ,"Dr. D. Molyneux,                        "
+101.0,VHI ,1074    ,"Dr. D. Molyneux,                        "
+581.0,LAYA,33649   ,"Dr. S. Ryan, Consultant Radiologist.    "
+683.0,ILH ,2124033 ,Dr. Khairin Ezlin Mohamed Khalib        
+143.0,ILH ,1241385 ,"Dr Saud Khawar Bajwa,                   "
+217.0,ILH ,278524  ,"Dr. James O'Brien,                      "
+721.0,VHI ,5105    ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+602.0,VHI ,8155    ,Consultant Pathologists Beaumont Hosp   
+571.0,ILH ,1237585 ,Consultant Radiologists (Connolly Hosp) 
+801.0,ILH ,554125  ,Dr. Patricia Fitzgerald (Claim forms)   
+234.0,ILH ,271895  ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+188.0,ILH ,1240528 ,"Dr. Juliet McAleese,                    "
+188.0,ESB ,MCA04   ,"Dr. Juliet McAleese,                    "
+105.0,ILH ,1241401 ,"Dr. E. Gallagher,                       "
+105.0,ESB ,GAL 01  ,"Dr. E. Gallagher,                       "
+105.0,GMA ,398     ,"Dr. E. Gallagher,                       "
+105.0,LAYA,30078   ,"Dr. E. Gallagher,                       "
+105.0,VHI ,0091    ,"Dr. E. Gallagher,                       "
+160.0,VHI ,5751    ,"Dr. Michael Murray,                     "
+588.0,BUPA,31291   ,"Dr. John O'Callaghan, Cons. Radiologist."
+588.0,GMA ,480     ,"Dr. John O'Callaghan, Cons. Radiologist."
+588.0,VHI ,3357    ,"Dr. John O'Callaghan, Cons. Radiologist."
+106.0,ILH ,665594  ,"Dr's O'Cronin & Minogue,                "
+208.0,ILH ,265429  ,"Dr. Jawad Mustafa,                      "
+716.0,LAYA,33742   ,"Dr. Christine Jennings, M.D.            "
+728.0,GMA ,4674    ,DR SEAMUS LOOBY CONSULTANT RADIOLOGIST  
+129.0,ILH ,206611  ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+728.0,LAYA,37777   ,DR SEAMUS LOOBY CONSULTANT RADIOLOGIST  
+667.0,ESB ,OBR55   ,"Dr. Deirdre O'Brien, M.D. FRCPath.      "
+667.0,GMA ,4503    ,"DR. DEIRDRE O'BRIEN, M.D. FRCPATH.      "
+741.0,GLO ,1374113 ,Mr. Darren Lui                          
+235.0,ILH ,779968  ,Dr. Anthony Hennessy MB BCL BAO FCARCSI.
+112.0,ILH ,1238117 ,Consultant Anaesthetists Grp. SVUH      
+115.0,ILH ,1236978 ,"Dr. John Walsh,                         "
+115.0,GMA ,649     ,"Dr. John Walsh,                         "
+115.0,LAYA,30217   ,"Dr. John Walsh,                         "
+115.0,VHI ,3365    ,"Dr. John Walsh,                         "
+237.0,ILH ,791409  ,Dr. Suresh Chittoodan MBBS Da DNB MSC   
+148.0,GLO ,1344776 ,"Dr. Masud Awan, Consultant Anaesthetist "
+558.0,ILH ,1237268 ,Louth & Meath Radiology Group           
+241.0,VHI ,11618   ,Dr. L. Crowley.                         
+622.0,POMA,2549    ,Consultant Pathologists Tallaght        
+266.0,ILH ,2246905 ,Limerick Anaesthesia Group              
+225.0,ILH ,1241002 ,"Dr. Eugene O'Kelly, MB BCH FFARCS       "
+716.0,VHI ,11721   ,"Dr. Christine Jennings, M.D.            "
+259.0,ILH ,2012422 ,"DR. ELANKATHAIR TAMILMANI,              "
+314.0,ILH ,2100562 ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+129.0,ESB ,OKE11   ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+129.0,GLO ,1246392 ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+188.0,GLO ,1207519 ,"DR. JULIET MCALEESE,                    "
+221.0,ILH ,2097237 ,"Dr. Fasih Khan, MBBS FFARSCI            "
+150.0,ILH ,1237437 ,"Dr Michael Coughlan,                    "
+129.0,GMA ,1563    ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+570.0,ILH ,1599783 ,CK DIAGNOSTICS LTD                      
+148.0,GMA ,4308    ,"Dr. Masud Awan, Consultant Anaesthetist "
+580.0,VHI ,9331    ,Naas Radiology Group.                   
+717.0,ILH ,1237389 ,"Dr. J. Thornton, M.D.                   "
+131.0,ILH ,1236253 ,"Dr. Kevin Clarkson,                     "
+131.0,GMA ,1195    ,"Dr. Kevin Clarkson,                     "
+131.0,LAYA,34597   ,"Dr. Kevin Clarkson,                     "
+131.0,VHI ,4369    ,"Dr. Kevin Clarkson,                     "
+217.0,GMA ,3631    ,"Dr. James O'Brien,                      "
+217.0,LAYA,36299   ,"Dr. James O'Brien,                      "
+217.0,VHI ,10395   ,"Dr. James O'Brien,                      "
+651.0,VHI ,10656   ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+652.0,ILH ,1241812 ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+143.0,ESB ,BAJ01   ,"Dr Saud Khawar Bajwa,                   "
+161.0,ILH ,1240512 ,"Dr. Enda Shanahan,                      "
+161.0,ESB ,SHA02   ,"Dr. Enda Shanahan,                      "
+161.0,GLO ,1207780 ,"Dr. Enda Shanahan,                      "
+143.0,GLO ,1196890 ,"Dr Saud Khawar Bajwa,                   "
+314.0,ESB ,MUL43   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+730.0,ILH ,1240459 ,Tralee Radiology Group                  
+140.0,ILH ,1236942 ,"Dr. Matthew G. Browne, FFARCSI.         "
+235.0,GLO ,1184833 ,Dr. Anthony Hennessy MB BCL BAO FCARCSI.
+235.0,GMA ,4117    ,Dr. Anthony Hennessy MB BCL BAO FCARCSI.
+652.0,ESB ,MUL34   ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+684.0,ILH ,2436067 ,"Dr. Emer Caffrey,                       "
+236.0,ILH ,820002  ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+678.0,ILH ,1235556 ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+259.0,ESB ,TAM01   ,"DR. ELANKATHAIR TAMILMANI,              "
+253.0,ILH ,1572002 ,DR. GEHAD ELBASTIWASY                   
+711.0,GMA ,3415    ,"Dr. E. Twomey, Consultant Radiologist.  "
+652.0,GLO ,1195327 ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+652.0,GMA ,2933    ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+241.0,ILH ,3191550 ,Dr. L. Crowley.                         
+246.0,ILH ,1594685 ,SIVUH Anaesthesia Group                 
+585.0,GMA ,2259    ,"Dr. Mark Logan, Consultant Radiologist. "
+585.0,LAYA,33855   ,"Dr. Mark Logan, Consultant Radiologist. "
+235.0,LAYA,37169   ,Dr. Anthony Hennessy MB BCL BAO FCARCSI.
+190.0,ILH ,1183752 ,"Dr. S. Froese, Consultant Anaesthetist. "
+317.0,ILH ,593808  ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+730.0,ESB ,RAD83   ,Tralee Radiology Group                  
+317.0,GLO ,1312522 ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+634.0,LAYA,55048   ,Consultant Pathologists (Rotunda)       
+140.0,ESB ,BRO16   ,"Dr. Matthew G. Browne, FFARCSI.         "
+225.0,ESB ,OKE33   ,Dr. Eugene O'Kelly                      
+112.0,ESB ,ANA01   ,Consultant Anaesthetists Grp. SVUH      
+309.0,ILH ,1637326 ,"Mr. Arnold D. K. Hill, M.Ch., F.R.C.S.I."
+122.0,ILH ,1240598 ,"Dr. Brian Ferris, FFARCS.               "
+216.0,VHI ,171     ,PAIN INTERVENTIONAL THERAPY CORK        
+276.0,ESB ,SOU01   ,SIVUH Anaesthesia Group                 
+219.0,ILH ,603986  ,"Dr. Carmel Wall,                        "
+725.0,ILH ,1142914 ,"Dr. Jennifer Kerr, Cons. Radiologist.   "
+250.0,ILH ,1676709 ,COMFORT IN PAIN LTD                     
+276.0,GLO ,1186050 ,SIVUH Anaesthesia Group                 
+240.0,ILH ,3518305 ,Dr Aftab Alam Baloch Incorporated  Ltd  
+156.0,ILH ,1240237 ,"Dr. K McKeating,                        "
+314.0,GLO ,1159323 ,"Mr. Eadhbhard Mulligan, MD FRC          "
+165.0,ILH ,V03600  ,"Dr. S. L. Tariq,                        "
+165.0,GMA ,2143    ,"Dr. S. L. Tariq,                        "
+165.0,LAYA,33861   ,"Dr. S. L. Tariq,                        "
+165.0,VHI ,6507    ,"Dr. S. L. Tariq,                        "
+317.0,GMA ,3894    ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+317.0,LAYA,36689   ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+661.0,ILH ,1202200 ,BLACKROCK CLINIC PATHOLOGY GRP          
+161.0,GMA ,119     ,"Dr. Enda Shanahan,                      "
+259.0,GLO ,1312691 ,"Dr. Elankathair Tamilmani,              "
+720.0,ILH ,1240003 ,"Dr. C. Cantwell, M.D.                   "
+720.0,GLO ,1184989 ,"Dr. C. Cantwell, M.D.                   "
+720.0,GMA ,4474    ,"Dr. C. Cantwell, M.D.                   "
+720.0,LAYA,36836   ,"Dr. C. Cantwell, M.D.                   "
+801.0,ESB ,FIT40   ,Dr. Patricia Fitzgerald (Claim forms)   
+168.0,VHI ,0951    ,                                        
+725.0,LAYA,37552   ,"Dr. Jennifer Kerr, Cons. Radiologist.   "
+571.0,ESB ,RAD74   ,Consultant Radiologists (Connolly Hosp) 
+221.0,ESB ,KHA07   ,"Dr. Fasih Khan, MBBS FFARSCI            "
+717.0,ESB ,THO21   ,DR. JOHN THORNTON M.D                   
+571.0,GLO ,1186049 ,Consultant Radiologists (Connolly Hosp) 
+274.0,ILH ,2165900 ,Dr Brendan Conroy Unlimited             
+166.0,ILH ,1240917 ,"Dr. M. B. Donnelly, M.B., F.F.A.R.C.S.I."
+166.0,ESB ,DON10   ,"Dr. M. B. Donnelly, M.B., F.F.A.R.C.S.I."
+806.0,ILH ,2418762 ,Dr. Paul Hartel                         
+156.0,ESB ,MCK01   ,"Dr. K McKeating,                        "
+661.0,ESB ,PAT91   ,BLACKROCK CLINIC PATHOLOGY GRP          
+705.0,ILH ,535432  ,Consultant Radiologists (Naas)          
+638.0,ILH ,V01406  ,Consultant Pathologists Loughlinstown   
+166.0,GMA ,287     ,"Dr. M. B. Donnelly, M.B., F.F.A.R.C.S.I."
+183.0,VHI ,6316    ,Professor John Laffey                   
+317.0,VHI ,11028   ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+166.0,LAYA,30056   ,"Dr. M. B. Donnelly, M.B., F.F.A.R.C.S.I."
+585.0,VHI ,80046   ,"Dr. Mark Logan, Consultant Radiologist. "
+654.0,ILH ,1236959 ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+324.0,ILH ,0000    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+571.0,GMA ,426     ,Consultant Radiologists (Connolly Hosp) 
+240.0,ESB ,BAL10   ,Dr Aftab Alam Baloch Incorporated  Ltd  
+238.0,GLO ,1212326 ,Dr. Silviu Gligor.                      
+643.0,VHI ,844     ,"Dr. Mary Keogan, BSc MD FRCPI FRCPath   "
+176.0,ILH ,1237557 ,"Dr. M. O'Shea,                          "
+176.0,ESB ,OSH02   ,"Dr. M. O'Shea,                          "
+176.0,GMA ,213     ,"Dr. M. O'Shea,                          "
+176.0,LAYA,30174   ,"Dr. M. O'Shea,                          "
+176.0,VHI ,0993    ,"Dr. M. O'Shea,                          "
+178.0,LAYA,34542   ,                                        
+178.0,VHI ,0430    ,                                        
+179.0,ILH ,1238268 ,"Dr. Deirdre M. Grady,                   "
+179.0,GMA ,2185    ,"Dr. Deirdre M. Grady,                   "
+179.0,LAYA,34657   ,"Dr. Deirdre M. Grady,                   "
+179.0,VHI ,6523    ,"Dr. Deirdre M. Grady,                   "
+180.0,ILH ,1240177 ,                                        
+180.0,GMA ,437     ,                                        
+180.0,LAYA,30016   ,                                        
+180.0,VHI ,0784    ,                                        
+314.0,GMA ,5181    ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+235.0,VHI ,11440   ,Dr. Anthony Hennessy MB BCL BAO FCARCSI.
+259.0,GMA ,5151    ,Dr. Elankathair Tamilmani               
+715.0,ILH ,1123382 ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+184.0,ILH ,1236487 ,                                        
+184.0,GMA ,602     ,                                        
+184.0,LAYA,30180   ,                                        
+184.0,VHI ,0946    ,                                        
+558.0,ESB ,RAD36   ,Louth & Meath Radiology Group           
+257.0,ILH ,569520  ,DR. OLEG ILYINSKI                       
+259.0,LAYA,38349   ,"DR. ELANKATHAIR TAMILMANI,              "
+257.0,ESB ,ILY01   ,DR. OLEG ILYINSKI                       
+752.0,VHI ,10709   ,Dr. Sean Curran FFR RCSI                
+186.0,LAYA,34955   ,                                        
+186.0,VHI ,6755    ,                                        
+807.0,LAYA,55179   ,Expert Histopathology Group             
+240.0,POMA,3207    ,Dr Aftab Alam Baloch Incorporated Ltd   
+667.0,VHI ,12006   ,"Dr. Deirdre O'Brien, M.D. FRCPath.      "
+808.0,ILH ,1240007 ,Laboratory Medicine Service             
+808.0,ESB ,LAB01   ,Laboratory Medicine Service             
+247.0,ILH ,548460  ,DR. RACHEL O'FARRELL                    
+185.0,LAYA,34395   ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+170.0,ILH ,1241297 ,"Dr. J. Lyons,                           "
+715.0,ESB ,SPA02   ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+309.0,ESB ,HIL01   ,"Mr. Arnold D. K. Hill, M.Ch., F.R.C.S.I."
+247.0,GLO ,1249056 ,Dr. Rachel O'Farrell                    
+592.0,ILH ,320065  ,Bons Radiology Group                    
+592.0,ESB ,RAD10   ,Bons Radiology Group                    
+237.0,GMA ,4152    ,Dr. Suresh Chittoodan MBBS Da DNB MSC   
+237.0,LAYA,37185   ,Dr. Suresh Chittoodan MBBS Da DNB MSC   
+191.0,ILH ,544910  ,"Dr. Thomas Ryan, Consultant Anaesthetist"
+191.0,ESB ,RYA04   ,                                        
+191.0,GMA ,2040    ,"Dr. Thomas Ryan, Consultant Anaesthetist"
+191.0,LAYA,33837   ,"Dr. Thomas Ryan, Consultant Anaesthetist"
+191.0,VHI ,6230    ,"Dr. Thomas Ryan, Consultant Anaesthetist"
+250.0,ESB ,COM06   ,COMFORT IN PAIN LTD                     
+192.0,ILH ,572608  ,"Dr. Judith Connolly, MRCPI, FFARCSI.    "
+192.0,GMA ,2835    ,"Dr. Judith Connolly, MRCPI, FFARCSI.    "
+192.0,LAYA,34830   ,"Dr. Judith Connolly, MRCPI, FFARCSI.    "
+192.0,VHI ,0827    ,"Dr. Judith Connolly, MRCPI, FFARCSI.    "
+711.0,LAYA,35971   ,"Dr. E. Twomey, Consultant Radiologist.  "
+342.0,LAYA,37147   ,MR. MICHAEL ALEXANDER                   
+174.0,ILH ,2165900 ,"Dr. Brendan Conroy,                     "
+246.0,ESB ,SOU01   ,SIVUH Anaesthesia Group                 
+802.0,ILH ,1238120 ,Dr. Eoghan Mooney                       
+140.0,GLO ,1214325 ,"Dr. Matthew G. Browne, FFARCSI.         "
+220.0,VHI ,4423    ,"Dr. Joseph Lee, M.B.,M.S.,F.F.A.R.C.S.I."
+592.0,GLO ,1164717 ,Bons Radiology Group                    
+175.0,ILH ,1240645 ,"Dr. Robert Concannon,                   "
+161.0,LAYA,30197   ,"Dr. Enda Shanahan,                      "
+196.0,ILH ,1240948 ,"Dr. Fergal Day,                         "
+196.0,GMA ,2227    ,"Dr. Fergal Day,                         "
+196.0,LAYA,34232   ,"Dr. Fergal Day,                         "
+196.0,VHI ,6392    ,"Dr. Fergal Day,                         "
+175.0,ESB ,CON03   ,"Dr. Robert Concannon,                   "
+340.0,ILH ,2509743 ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+156.0,GLO ,1180142 ,"Dr. K McKeating,                        "
+705.0,GLO ,1186101 ,Consultant Radiologists (Naas)          
+198.0,GMA ,1768    ,                                        
+198.0,LAYA,30058   ,                                        
+198.0,VHI ,4413    ,                                        
+199.0,ILH ,548460  ,"Dr. Rachel O'Farrell,                   "
+199.0,ESB ,OFA04   ,"Dr. Rachel O'Farrell,                   "
+199.0,GMA ,2968    ,"Dr. Rachel O'Farrell,                   "
+199.0,LAYA,36067   ,"Dr. Rachel O'Farrell,                   "
+199.0,VHI ,2935    ,"Dr. Rachel O'Farrell,                   "
+200.0,ILH ,V03276  ,                                        
+200.0,GMA ,3016    ,                                        
+200.0,LAYA,35311   ,                                        
+200.0,VHI ,6593    ,                                        
+201.0,VHI ,1844    ,                                        
+202.0,ILH ,V04216  ,                                        
+202.0,GMA ,3131    ,                                        
+202.0,LAYA,35530   ,                                        
+202.0,VHI ,3541    ,                                        
+546.0,ESB ,MCG35   ,"Dr. K. McGarry, MB, FRCPI, DCH.         "
+592.0,GMA ,229     ,Bons Radiology Group                    
+259.0,POMA,4266    ,"Dr. Elankathair Tamilmani,              "
+806.0,ESB ,HAR47   ,Dr. Paul Hartel                         
+205.0,ILH ,V04843  ,                                        
+205.0,GMA ,3188    ,                                        
+205.0,LAYA,35633   ,                                        
+205.0,VHI ,10004   ,                                        
+571.0,LAYA,55110   ,Consultant Radiologists (Connolly Hosp) 
+272.0,ILH ,1695265 ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+705.0,GMA ,2978    ,Consultant Radiologists (Naas)          
+652.0,LAYA,35187   ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+337.0,ILH ,1669952 ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+711.0,VHI ,3721    ,"Dr. E. Twomey, Consultant Radiologist.  "
+759.0,ILH ,1240459 ,TRALEE RADIOLOGY GROUP                  
+700.0,GMA ,3524    ,"Dr. Deirdre Duke, Consultant Radiologist"
+140.0,GMA ,932     ,"Dr. Matthew G. Browne, FFARCSI.         "
+161.0,VHI ,3076    ,"Dr. Enda Shanahan,                      "
+640.0,ILH ,1241753 ,"Dr. Clive Kilgallen, MB FRCPI FRCPath.  "
+717.0,GLO ,1184627 ,"Dr. J. Thornton, M.D.                   "
+208.0,ESB ,MUS02   ,"Dr. Jawad Mustafa,                      "
+319.0,ILH ,1237404 ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+209.0,ILH ,0       ,"Dr. Sallyann Colbert,                   "
+209.0,GMA ,1909    ,"Dr. Sallyann Colbert,                   "
+209.0,LAYA,34110   ,"Dr. Sallyann Colbert,                   "
+209.0,VHI ,5679    ,"Dr. Sallyann Colbert,                   "
+211.0,VHI ,4689    ,"Dr. David Mannion,                      "
+259.0,VHI ,12686   ,"DR. ELANKATHAIR TAMILMANI,              "
+652.0,POMA,2673    ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+174.0,ESB ,CON107  ,"Dr. Brendan Conroy,                     "
+140.0,LAYA,30032   ,"Dr. Matthew G. Browne, FFARCSI.         "
+213.0,ILH ,503597  ,"Dr. Chris H. Maharaj,                   "
+213.0,GMA ,3486    ,"Dr. Chris H. Maharaj,                   "
+213.0,LAYA,36075   ,"Dr. Chris H. Maharaj,                   "
+213.0,VHI ,10413   ,"Dr. Chris H. Maharaj,                   "
+215.0,ILH ,V04748  ,"Dr. Scholtz Marais, FCA (SA)            "
+215.0,GMA ,3558    ,"Dr. Scholtz Marais, FCA (SA)            "
+215.0,LAYA,36218   ,"Dr. Scholtz Marais, FCA (SA)            "
+215.0,VHI ,10555   ,"Dr. Scholtz Marais, FCA (SA)            "
+256.0,ILH ,1971659 ,DR. NIALL FANNING                       
+705.0,LAYA,55129   ,Consultant Radiologists (Naas)          
+571.0,VHI ,9005    ,Consultant Radiologists (Connolly Hosp) 
+342.0,VHI ,12248   ,MR. MICHAEL ALEXANDER                   
+756.0,ESB ,MUZ01   ,Dr Suhail Muzaffar                      
+233.0,ILH ,750338  ,"Dr. Brian O'Donnell, MB FCARSCI MSc.    "
+233.0,ESB ,ODO63   ,"Dr. Brian O'Donnell, MB FCARSCI MSc.    "
+208.0,GLO ,1184827 ,"Dr. Jawad Mustafa,                      "
+218.0,VHI ,2663    ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+140.0,VHI ,3449    ,"Dr. Matthew G. Browne, FFARCSI.         "
+589.0,ILH ,2166519 ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+589.0,ESB ,LEE06   ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+558.0,GLO ,1166071 ,Louth & Meath Radiology Group           
+208.0,GMA ,3113    ,"Dr. Jawad Mustafa,                      "
+720.0,VHI ,11077   ,"Dr. C. Cantwell, M.D.                   "
+106.0,ESB ,MER30   ,"DR'S O'CRONIN & MINOGUE,                "
+685.0,ILH ,2442921 ,Dr Galen Kyurkchiev                     
+717.0,GMA ,2814    ,"Dr. J. Thornton, M.D.                   "
+314.0,LAYA,35563   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+320.0,ILH ,VO3048  ,"Dr. Martin Quinn, Consultant Cardiologis"
+589.0,GLO ,1184668 ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+702.0,ILH ,1599783 ,CK DIAGNOSTICS LTD                      
+206.0,ILH ,1240292 ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+143.0,GMA ,1677    ,"Dr Saud Khawar Bajwa,                   "
+702.0,GLO ,1196377 ,CK DIAGNOSTICS LTD (Whitfield)          
+236.0,GLO ,1212232 ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+564.0,ESB ,RAD38   ,Consultant Radiologists.(Loughlinstown) 
+223.0,VHI ,10846   ,"Dr. Oleg Ilyinski, FCARCSI, DPMCA, EDA  "
+340.0,ESB ,QUI31   ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+224.0,ILH ,555457  ,"Dr. Elizabeth Connolly, (Anaesthetist)  "
+224.0,GMA ,3920    ,"Dr. Elizabeth Connolly, (Anaesthetist)  "
+224.0,LAYA,35145   ,"Dr. Elizabeth Connolly, (Anaesthetist)  "
+347.0,ESB ,JCP01   ,Mr. John Curran                         
+719.0,ILH ,1238325 ,"Dr. D. Brophy, M.D.                     "
+206.0,ESB ,POR01   ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+250.0,GLO ,1341620 ,Dr L.G. CONROY - COMFORT IN PAIN        
+197.0,ILH ,547391  ,"Dr. Stephen Mannion,                    "
+226.0,ILH ,578948  ,"Dr. Miriam Harnett, MB FFARCSI          "
+625.0,ILH ,201835  ,Consultant Pathologists (SVUH / SVPH)   
+232.0,ILH ,665594  ,Consultant Anaesthetists Grp Mercy Hosp 
+617.0,ILH ,1236794 ,Pathologists:  James Connolly Memorial. 
+227.0,GMA ,2701    ,                                        
+227.0,LAYA,34848   ,                                        
+227.0,VHI ,6136    ,                                        
+228.0,ILH ,1235552 ,"Dr. Eugene O'Kelly, Old Accounts        "
+228.0,LAYA,30167   ,"Dr. Eugene O'Kelly, Old Accounts        "
+228.0,VHI ,4197    ,"Dr. Eugene O'Kelly, Old Accounts        "
+229.0,ILH ,1235552 ,"Dr. Eugene O'Kelly, Old Accounts 2      "
+229.0,LAYA,30167   ,"Dr. Eugene O'Kelly, Old Accounts 2      "
+229.0,VHI ,4197    ,"Dr. Eugene O'Kelly, Old Accounts 2      "
+801.0,GLO ,1236988 ,Dr. Patricia Fitzgerald (Claim forms)   
+246.0,GLO ,1186050 ,SIVUH Anaesthesia Group                 
+574.0,ILH ,1240262 ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+617.0,ESB ,PAT50   ,Pathologists:  James Connolly Memorial. 
+589.0,GMA ,1968    ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+231.0,ILH ,256572  ,"Dr. Pauline Whyte, MB BCh BAO FFARCSI   "
+231.0,GMA ,3605    ,"Dr. Pauline Whyte, MB BCh BAO FFARCSI   "
+231.0,LAYA,35989   ,"Dr. Pauline Whyte, MB BCh BAO FFARCSI   "
+231.0,VHI ,0167    ,"Dr. Pauline Whyte, MB BCh BAO FFARCSI   "
+275.0,ILH ,2431910 ,Ilyinski Pain (Dr Oleg Ilyinski)        
+801.0,GMA ,1507    ,Dr. Patricia Fitzgerald (Claim forms)   
+574.0,BUPA,31260   ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+574.0,ESB ,KEE05   ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+589.0,LAYA,31264   ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+233.0,GMA ,4071    ,"Dr. Brian O'Donnell, MB FCARSCI MSc.    "
+233.0,LAYA,36996   ,"Dr. Brian O'Donnell, MB FCARSCI MSc.    "
+233.0,VHI ,11249   ,"Dr. Brian O'Donnell, MB FCARSCI MSc.    "
+247.0,GMA ,2968    ,DR. RACHEL O'FARRELL                    
+709.0,ILH ,826577  ,"Dr Eoghan Laffan, Consultant Radiologist"
+685.0,GLO ,1473040 ,Dr Galen Kyurkchiev                     
+107.0,VHI ,4576    ,"Dr. J. McDonnell,                       "
+125.0,ILH ,320000  ,"Dr. John Boylan,                        "
+759.0,ESB ,RAD83   ,TRALEE RADIOLOGY GROUP                  
+175.0,GLO ,1193819 ,"Dr. Robert Concannon,                   "
+319.0,ESB ,WAT03   ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+683.0,ESB ,KHA79   ,Dr. Khairin E M Khalib MRCPI FRCPath    
+321.0,ILH ,1240978 ,"Dr. Niall T. Mulvihill, M.D., F.R.C.P.I."
+129.0,LAYA,30166   ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+167.0,VHI ,0076    ,"Dr. J. J. Magner, MB. BCh. BAO FCA RCSI."
+685.0,GMA ,5712    ,Dr Galen Kyurkchiev                     
+759.0,GLO ,1159240 ,TRALEE RADIOLOGY GROUP                  
+320.0,GMA ,3242    ,"Dr. Martin Quinn, Consultant Cardiologis"
+655.0,ILH ,1240013 ,ST. MICHAEL'S PATHOLOGY GROUP           
+236.0,GMA ,4150    ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+248.0,ILH ,523417  ,DR. MOHAN MUGAWAR                       
+237.0,VHI ,11412   ,Dr. Suresh Chittoodan MBBS Da DNB MSC   
+240.0,GMA ,5396    ,Dr. Aftab Alam Baloch Incorporated  Ltd 
+254.0,ILH ,278509  ,DR. KAROL MOSIEJ                        
+275.0,ESB ,ILY02   ,Ilyinski Pain (Dr Oleg Ilyinski)        
+169.0,ILH ,1236465 ,"Dr. Brian Kinirons, F.F.A.R.C.S.I.      "
+239.0,VHI ,11363   ,Dr. Elnazeer Elfaki MBBS FCARCSI        
+685.0,LAYA,38887   ,Dr Galen Kyurkchiev                     
+125.0,ESB ,BOY01   ,"Dr. John Boylan,                        "
+275.0,GLO ,1183543 ,Ilyinski Pain (Dr Oleg Ilyinski)        
+801.0,LAYA,34654   ,Dr. Patricia Fitzgerald (Claim forms)   
+718.0,ILH ,2164397 ,"Dr. M. Logan, M.D.                      "
+718.0,ESB ,0000    ,"Dr. M. Logan, M.D.                      "
+221.0,GLO ,1198773 ,"Dr. Fasih Khan, MBBS FFARSCI            "
+169.0,GMA ,2387    ,"Dr. Brian Kinirons, F.F.A.R.C.S.I.      "
+314.0,POMA,2190    ,"Mr. Eadhbhard Mulligan, MD FRC          "
+275.0,GMA ,5609    ,Ilyinski Pain (Dr Oleg Ilyinski)        
+722.0,VHI ,11866   ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+275.0,LAYA,38845   ,Ilyinski Pain (Dr Oleg Ilyinski)        
+122.0,ESB ,FER01   ,"Dr. Brian Ferris, FFARCS.               "
+671.0,ILH ,1080002 ,"Dr. Kirsten Schaffer, M.D., F.R.C.P.I.  "
+735.0,VHI ,5579    ,"Dr. Emer O'Connell, Cons. Radiologist.  "
+655.0,ESB ,PAT61   ,ST. MICHAEL'S PATHOLOGY GROUP           
+558.0,GMA ,1007    ,Louth & Meath Radiology Group           
+558.0,LAYA,55027   ,Louth & Meath Radiology Group           
+206.0,GLO ,1195955 ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+684.0,ESB ,CAF01   ,"Dr. Emer Caffrey,                       "
+104.0,ILH ,3977765 ,Switzer Medical Unlimited Company       
+104.0,ESB ,SWI01   ,Switzer Medical Unlimited Company       
+104.0,GMA ,7628    ,Switzer Medical Unlimited Company       
+104.0,LAYA,71073   ,Switzer Medical Unlimited Company       
+104.0,POMA,6202    ,Switzer Medical Unlimited Company       
+848.0,LAYA,71045   ,"Dr. Aoife Doyle,                        "
+848.0,ILH ,3962088 ,"Dr. Aoife Doyle,                        "
+754.0,GMA ,5309    ,SLK Imaging Ltd                         
+275.0,POMA,4623    ,Ilyinski Pain (Dr Oleg Ilyinski)        
+249.0,ILH ,1695265 ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+622.0,VHI ,8001    ,Consultant Pathologists Tallaght        
+156.0,GMA ,1187    ,"Dr. K McKeating,                        "
+221.0,GMA ,5184    ,"Dr. Fasih Khan, MBBS FFARSCI            "
+618.0,ILH ,273640  ,"Consultant Pathologists.St. Lukes,Dublin"
+106.0,GMA ,150     ,"Dr's O'Cronin & Minogue,                "
+320.0,LAYA,35161   ,"Dr. Martin Quinn, Consultant Cardiologis"
+221.0,LAYA,33784   ,"Dr. Fasih Khan, MBBS FFARSCI            "
+219.0,ESB ,WAL68   ,"Dr. Carmel Wall,                        "
+275.0,VHI ,80206   ,Ilyinski Pain (Dr Oleg Ilyinski)        
+320.0,VHI ,2111    ,"Dr. Martin Quinn, Consultant Cardiologis"
+188.0,GMA ,2516    ,"Dr. Juliet McAleese,                    "
+156.0,LAYA,30135   ,"Dr. K McKeating,                        "
+174.0,GLO ,1191806 ,"Dr. Brendan Conroy,                     "
+321.0,GMA ,2875    ,"Dr. Niall T. Mulvihill, M.D., F.R.C.P.I."
+321.0,LAYA,34978   ,"Dr. Niall T. Mulvihill, M.D., F.R.C.P.I."
+321.0,VHI ,1721    ,"Dr. Niall T. Mulvihill, M.D., F.R.C.P.I."
+340.0,GLO ,1504986 ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+171.0,ILH ,1241783 ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+618.0,ESB ,PAT25   ,"Consultant Pathologists.St. Lukes,Dublin"
+263.0,ILH ,2092119 ,DR. EUGENE O'KELLY UNLIMITED COMPANY    
+247.0,LAYA,36067   ,DR. RACHEL O'FARRELL                    
+247.0,VHI ,2935    ,DR. RACHEL O'FARRELL                    
+618.0,GMA ,1788    ,"Consultant Pathologists.St. Lukes,Dublin"
+736.0,ILH ,1863132 ,"NI MHUIRCHEARTAIGH, NEASA               "
+618.0,LAYA,55088   ,"Consultant Pathologists.St. Lukes,Dublin"
+203.0,ILH ,1241915 ,TALLAGHT INTENSIVE CARE CON GRP         
+300.0,ILH ,1236021 ,"Mr.Arnold D.K. Hill  M.Ch.,F.R.C.S.I.   "
+300.0,GMA ,2325    ,"Mr.Arnold D.K. Hill  M.Ch.,F.R.C.S.I.   "
+303.0,VHI ,5547    ,                                        
+219.0,GLO ,1187170 ,"Dr. Carmel Wall,                        "
+219.0,GMA ,3795    ,"Dr. Carmel Wall,                        "
+219.0,LAYA,36179   ,"Dr. Carmel Wall,                        "
+702.0,GMA ,4576    ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+806.0,GLO ,1462799 ,Dr. Paul Hartel                         
+637.0,VHI ,3399    ,"Dr. S. Knowles, Consultant Pathologist. "
+344.0,ILH ,1030887 ,"DR. MARCUS BUTLER,                      "
+612.0,ILH ,1241387 ,Consultant Pathologists Drogheda        
+618.0,VHI ,8216    ,"Consultant Pathologists.St. Lukes,Dublin"
+313.0,ILH ,1502595 ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+221.0,VHI ,5406    ,"Dr. Fasih Khan, MBBS FFARSCI            "
+848.0,GMA ,7603    ,"Dr. Aoife Doyle,                        "
+171.0,ESB ,MCD02   ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+759.0,GMA ,2844    ,TRALEE RADIOLOGY GROUP                  
+310.0,LAYA,35905   ,Dr. Richard Farrell.                    
+310.0,VHI ,5368    ,Dr. Richard Farrell.                    
+312.0,ILH ,V02108  ,"Dr. Thomas Gumbrielle, M.D.             "
+312.0,BUPA,55009   ,"Dr. Thomas Gumbrielle, M.D.             "
+312.0,GMA ,1028    ,"Dr. Thomas Gumbrielle, M.D.             "
+655.0,GLO ,1184786 ,St. Michael's Pathology Group           
+203.0,GMA ,2595    ,TALLAGHT INTENSIVE CARE CON GRP         
+701.0,ILH ,1240622 ,Consultant Radiologists.(Tullamore)     
+156.0,VHI ,4365    ,"Dr. K McKeating,                        "
+276.0,GMA ,5293    ,SIVUH Anaesthesia Group                 
+314.0,VHI ,80031   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+319.0,GLO ,1186645 ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+672.0,ILH ,1616184 ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+718.0,GLO ,1184655 ,"Dr. M. Logan, M.D.                      "
+313.0,ESB ,MUL33   ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+672.0,ESB ,IPA01   ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+717.0,LAYA,34627   ,"Dr. J. Thornton, M.D.                   "
+701.0,ESB ,RAD12   ,Consultant Radiologists.(Tullamore)     
+253.0,GLO ,1184368 ,Dr. Gehad Elbastawisy                   
+655.0,GMA ,3334    ,ST. MICHAEL'S PATHOLOGY GROUP           
+756.0,GMA ,5401    ,Dr Suhail Muzaffar                      
+106.0,LAYA,55142   ,"Dr's O'Cronin & Minogue,                "
+328.0,VHI ,3576    ,"Mr. Parnell Keeling, MCh FRCSI FACS     "
+672.0,GLO ,1213999 ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+166.0,VHI ,2693    ,"Dr. M. B. Donnelly, M.B., F.F.A.R.C.S.I."
+806.0,GMA ,5646    ,Dr. Paul Hartel                         
+150.0,ESB ,COU12   ,"Dr Michael Coughlan,                    "
+319.0,GMA ,1654    ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+801.0,VHI ,753     ,Dr. Patricia Fitzgerald (Claim forms)   
+564.0,LAYA,55096   ,Consultant Radiologists.(Loughlinstown) 
+313.0,GLO ,1199709 ,"Dr. Niall T. Mulvihill, MD, FR          "
+246.0,GMA ,5293    ,SIVUH Anaesthesia Group                 
+717.0,VHI ,458     ,"Dr. J. Thornton, M.D.                   "
+806.0,LAYA,38843   ,Dr. Paul Hartel                         
+625.0,ESB ,PAT01   ,Consultant Pathologists (SVUH / SVPH)   
+500.0,ESB ,RAD15   ,"Consultant Radiologists Temple St.,     "
+740.0,ILH ,665522  ,"DR. MARY KEOGAN, BSC MD FRCPI FRCPATH   "
+655.0,LAYA,55113   ,ST. MICHAEL'S PATHOLOGY GROUP           
+740.0,GMA ,3871    ,"DR. MARY KEOGAN, BSC MD FRCPI FRCPATH   "
+655.0,VHI ,10193   ,ST. MICHAEL'S PATHOLOGY GROUP           
+319.0,LAYA,30463   ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+346.0,ILH ,2176334 , Prof. Peter Conlon Unlimited           
+246.0,LAYA,55170   ,SIVUH Anaesthesia Group                 
+346.0,ESB ,CON30   ,"Prof. Peter J. Conlon, F.R.C.P.I        "
+564.0,VHI ,9003    ,Consultant Radiologists.(Loughlinstown) 
+612.0,ESB ,PAT10   ,Consultant Pathologists Drogheda        
+253.0,GMA ,4565    ,DR. GEHAD ELBASTIWASY                   
+344.0,GLO ,1211005 ,"Mr. Marcus Butler,                      "
+652.0,VHI ,2428    ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+612.0,GLO ,1202416 ,Consultant Pathologists Drogheda        
+313.0,GMA ,2875    ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+612.0,GMA ,4369    ,Consultant Pathologists Drogheda        
+670.0,ILH ,1237519 ,Dr. Brian Hennessy MD MRCPI FRCPath     
+686.0,ILH ,2447853 ,Dr. Deirdre Brady                       
+267.0,ILH ,2165900 ,Dr. Brendan Conroy                      
+324.0,GMA ,2184    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+325.0,GMA ,4188    ,Dr. Malik Mumtaz Ahmed Minhas           
+325.0,LAYA,36942   ,Dr. Malik Mumtaz Ahmed Minhas           
+325.0,VHI ,11545   ,Dr. Malik Mumtaz Ahmed Minhas           
+633.0,ILH ,1237972 ,"Dr. Edmond Smyth, MB., FRCPI.           "
+319.0,VHI ,5193    ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+734.0,ILH ,2168585 ,SLK Imaging Ltd                         
+808.0,GLO ,1199941 ,Laboratory Medicine Service             
+327.0,ILH ,V572591 ,"Mr. Ross Kingston, MCh FRCSI            "
+327.0,GMA ,3935    ,"Mr. Ross Kingston, MCh FRCSI            "
+327.0,LAYA,36699   ,"Mr. Ross Kingston, MCh FRCSI            "
+327.0,VHI ,10566   ,"Mr. Ross Kingston, MCh FRCSI            "
+804.0,VHI ,00000   ,Beaumont Hospital Project               
+758.0,VHI ,9005    ,Connolly Radiology Associates           
+171.0,GLO ,1179298 ,"Dr. Neil J. McDonald, F.F.A.R.          "
+267.0,GLO ,1191806 ,Dr. Brendan Conroy                      
+329.0,ILH ,1152871 ,Mr. Michael Arthur Murphy MD FRCSI FRCS 
+329.0,ESB ,MUR116  ,Mr. Michael Arthur Murphy MD FRCSI FRCS 
+329.0,GMA ,2742    ,Mr. Michael Arthur Murphy MD FRCSI FRCS 
+329.0,LAYA,37575   ,Mr. Michael Arthur Murphy MD FRCSI FRCS 
+329.0,VHI ,1667    ,Mr. Michael Arthur Murphy MD FRCSI FRCS 
+739.0,ILH ,593808  ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+225.0,GMA ,1121    ,"Dr. Eugene O'Kelly, MB BCH FFARCS       "
+346.0,GMA ,2184    ,"Prof. Peter J. Conlon, F.R.C.P.I        "
+966.0,VHI ,00000   ,Limerick Anaesthesia Group (Test)       
+331.0,ILH ,542048  ,"Dr. Colm C. Magee, M.D., M.P.H.         "
+736.0,LAYA,38168   ,"NI MHUIRCHEARTAIGH, NEASA               "
+267.0,GMA ,5243    ,Dr. Brendan Conroy                      
+257.0,GLO ,1183543 ,DR. OLEG ILYINSKI                       
+313.0,LAYA,34978   ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+344.0,GMA ,4574    ,"DR. MARCUS BUTLER,                      "
+625.0,GLO ,1185751 ,Consultant Pathologists (SVUH / SVPH)   
+236.0,LAYA,37227   ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+654.0,ESB ,FAU03   ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+333.0,GMA ,75      ,"Dr. A. N. Other., F.R.C.S.I.,           "
+333.0,LAYA,1234    ,"Dr. A. N. Other., F.R.C.S.I.,           "
+333.0,VHI ,12134   ,"Dr. A. N. Other., F.R.C.S.I.,           "
+736.0,VHI ,12550   ,"NI MHUIRCHEARTAIGH, NEASA               "
+718.0,GMA ,5183    ,"Dr. M. Logan, M.D.                      "
+261.0,ILH ,1241182 ,"DR. ALAN MCSHANE MB,BSC,FRCPI,FFARCSI   "
+313.0,NTPF,00768   ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+589.0,VHI ,5516    ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+734.0,ESB ,SLK01   ,SLK Imaging Ltd                         
+759.0,LAYA,55123   ,TRALEE RADIOLOGY GROUP                  
+313.0,VHI ,1721    ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+654.0,GLO ,1163527 ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+734.0,GLO ,1205215 ,SLK Imaging Ltd                         
+739.0,GMA ,3894    ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+500.0,GLO ,1160162 ,Consultant Radiologists Temple          
+269.0,ILH ,265429  ,Dr. Jawad Mustafa                       
+500.0,VHI ,3427    ,"Consultant Radiologists Temple St.,     "
+625.0,GMA ,754     ,Consultant Pathologists (SVUH / SVPH)   
+578.0,LAYA,35537   ,"Dr. K. C. Walshe, Consultant Radiologist"
+346.0,LAYA,33876   ,"Prof. Peter J. Conlon, F.R.C.P.I        "
+686.0,ESB ,BRA16   ,Dr. Deirdre Brady                       
+704.0,ILH ,VO2147  ,Consultant Radiologists. Beaumont Clinic
+253.0,LAYA,34446   ,DR. GEHAD ELBASTIWASY                   
+253.0,VHI ,64      ,DR. GEHAD ELBASTIWASY                   
+219.0,VHI ,5310    ,"Dr. Carmel Wall,                        "
+705.0,VHI ,9331    ,Consultant Radiologists (Naas)          
+950.0,VHI ,123456  ,Test Anaesthetist Consultant            
+950.0,LAYA,95432   ,                                        
+257.0,GMA ,3841    ,DR. OLEG ILYINSKI                       
+250.0,GMA ,4678    ,DR. L.G. CONROY - COMFORT IN PAIN       
+612.0,LAYA,55049   ,Consultant Pathologists Drogheda        
+750.0,ILH ,1959427 ,DR. JOE COYLE CONSULTANT RADIOLOGIST    
+750.0,GMA ,5028    ,DR. JOE COYLE CONSULTANT RADIOLOGIST    
+750.0,LAYA,38291   ,DR. JOE COYLE CONSULTANT RADIOLOGIST    
+203.0,LAYA,55120   ,TALLAGHT INTENSIVE CARE CON GRP         
+750.0,VHI ,12615   ,DR. JOE COYLE CONSULTANT RADIOLOGIST    
+106.0,VHI ,7074    ,"DR'S O'CRONIN & MINOGUE,                "
+525.0,VHI ,9506    ,                                        
+528.0,VHI ,5619    ,"Dr. M. P. O'Sullivan, FRCSI., FRCR.     "
+541.0,VHI ,5235    ,Dr. Kieran Carroll.                     
+129.0,VHI ,5071    ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+203.0,VHI ,7802    ,TALLAGHT INTENSIVE CARE CON GRP         
+753.0,ILH ,1241124 ,Dr. Neil Hickey FFR RCSI                
+255.0,ILH ,1572002 ,DR. GEHAD ELBASTAWISY                   
+249.0,ESB ,LEE15   ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+706.0,ILH ,840236  ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+125.0,GLO ,1228246 ,"Dr. John Boylan,                        "
+706.0,ESB ,GIV03   ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+170.0,ESB ,LYO11   ,"Dr. J. Lyons,                           "
+269.0,ESB ,MUS02   ,Dr. Jawad Mustafa                       
+759.0,POMA,3317    ,TRALEE RADIOLOGY GROUP                  
+250.0,LAYA,33680   ,DR. L.G. CONROY - COMFORT IN PAIN       
+806.0,VHI ,13065   ,Dr. Paul Hartel                         
+654.0,GMA ,2501    ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+759.0,VHI ,9308    ,TRALEE RADIOLOGY GROUP                  
+706.0,GLO ,1184630 ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+640.0,ESB ,KIL01   ,"Dr. Clive Kilgallen, MB FRCPI FRCPath.  "
+246.0,VHI ,12845   ,SIVUH Anaesthesia Group                 
+739.0,LAYA,36689   ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+274.0,GLO ,1191806 ,Dr Brendan Conroy Unlimited             
+340.0,GMA ,5822    ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+640.0,GLO ,1160207 ,"Dr. Clive Kilgallen, MB FRCPI           "
+171.0,GMA ,168     ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+274.0,GMA ,5243    ,Dr Brendan Conroy Unlimited             
+725.0,VHI ,11823   ,"Dr. Jennifer Kerr, Cons. Radiologist.   "
+254.0,GLO ,1195764 ,DR. KAROL MOSIEJ                        
+206.0,GMA ,2117    ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+225.0,LAYA,70566   ,Dr. Eugene O'Kelly                      
+625.0,LAYA,55038   ,Consultant Pathologists (SVUH / SVPH)   
+640.0,GMA ,2572    ,"Dr. Clive Kilgallen, MB FRCPI FRCPath.  "
+719.0,GMA ,4475    ,"Dr. D. Brophy, M.D.                     "
+263.0,ESB ,OKEL14  ,DR. EUGENE O'KELLY UNLIMITED COMPANY    
+225.0,VHI ,4197    ,"Dr. Eugene O'Kelly, MB BCH FFARCS       "
+719.0,LAYA,35907   ,"Dr. D. Brophy, M.D.                     "
+159.0,ILH ,1240661 ,"Dr. L. G. Conroy,                       "
+188.0,LAYA,34119   ,"Dr. Juliet McAleese,                    "
+185.0,VHI ,240     ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+197.0,GLO ,1184805 ,"Dr. Stephen Mannion,                    "
+654.0,LAYA,34599   ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+170.0,GLO ,1212712 ,"Dr. J. Lyons,                           "
+118.0,ILH ,1240588 ,"Dr. Patrick J. Breen, DCH., FFARCSI.    "
+602.0,ILH ,1240976 ,Consultant Pathologists Beaumont Hosp.  
+335.0,ILH ,747835  ,"PROF. PAUL F.RIDGWAY, MD MMEDSC FRCSI   "
+756.0,LAYA,38646   ,Dr Suhail Muzaffar                      
+261.0,GLO ,1188077 ,"Dr. Alan McShane MB,BSc, FRCPI,FFARCSI  "
+197.0,GMA ,2894    ,"Dr. Stephen Mannion,                    "
+805.0,ILH ,1240007 ,Laboratory Medicine Service             
+344.0,LAYA,35579   ,"DR. MARCUS BUTLER,                      "
+254.0,GMA ,3693    ,DR. KAROL MOSIEJ                        
+254.0,LAYA,36402   ,DR. KAROL MOSIEJ                        
+741.0,GMA ,5425    ,Mr. Darren Lui                          
+702.0,LAYA,55118   ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+254.0,VHI ,10878   ,DR. KAROL MOSIEJ                        
+274.0,LAYA,34723   ,Dr Brendan Conroy Unlimited             
+726.0,ILH ,1256462 ,"Dr. G. J. Albuquerque, MBChB FCRAD FRCR."
+726.0,GMA ,4416    ,"Dr. G. J. Albuquerque, MBChB FCRAD FRCR."
+706.0,GMA ,4038    ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+258.0,VHI ,000000  ,MATER PRIVATE CORK ANAESTHESIA GROUP    
+670.0,ESB ,HEN09   ,Dr. Brian Hennessy MD MRCPI FRCPath     
+654.0,VHI ,497     ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+741.0,LAYA,38648   ,Mr. Darren Lui                          
+125.0,GMA ,288     ,"Dr. John Boylan,                        "
+170.0,GMA ,2434    ,"Dr. J. Lyons,                           "
+599.0,ILH ,554125  ,Dr. Patricia Fitzgerald.                
+715.0,GLO ,1185463 ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+715.0,GMA ,4363    ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+715.0,LAYA,37464   ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+800.0,ILH ,320065  ,Bons Rad Grp (Claim forms)              
+570.0,GMA ,4576    ,CK Diagnostics LTD (RADIOLOGY GRP)      
+335.0,GLO ,1184829 ,"Prof. Paul Ridgway, MD MMedSc FRCSI     "
+703.0,ILH ,1240019 ,Con. Rad. Group.(Tal Int Med)           
+681.0,ILH ,1240562 ,Dr B Loftus MB BCh FRCPath FFPath. RCPI 
+112.0,GMA ,1336    ,Consultant Anaesthetists Grp. SVUH      
+344.0,VHI ,11701   ,"Mr. Marcus Butler,                      "
+625.0,POMA,0795    ,Consultant Pathologists (SVUH / SVPH)   
+586.0,ILH ,0000    ,                                        
+586.0,BUPA,31296   ,                                        
+586.0,GMA ,299     ,                                        
+586.0,VHI ,1138    ,                                        
+125.0,LAYA,30026   ,"Dr. John Boylan,                        "
+740.0,LAYA,34311   ,"DR. MARY KEOGAN, BSC MD FRCPI FRCPATH   "
+719.0,VHI ,3386    ,"Dr. D. Brophy, M.D.                     "
+263.0,GLO ,1194810 ,Dr. Eugene O'Kelly Unlimited Company    
+599.0,ESB ,FIT40   ,Dr. Patricia Fitzgerald.                
+263.0,GMA ,5182    ,DR. EUGENE O'KELLY UNLIMITED COMPANY    
+249.0,GLO ,1198265 ,"Dr. Joseph Lee, M.S.,F.F.A.R.C          "
+226.0,GMA ,2580    ,"Dr. Miriam Harnett, MB FFARCSI          "
+700.0,LAYA,36150   ,"Dr. Deirdre Duke, Consultant Radiologist"
+599.0,GLO ,1236988 ,Dr. Patricia Fitzgerald.                
+340.0,LAYA,39014   ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+703.0,LAYA,0       ,Con. Rad. Group.(Tal Int Med)           
+257.0,LAYA,35545   ,DR. OLEG ILYINSKI                       
+249.0,GMA ,4698    ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+805.0,ESB ,LAB01   ,Laboratory Medicine Service             
+686.0,GMA ,5728    ,Dr. Deirdre Brady                       
+625.0,VHI ,8223    ,Consultant Pathologists (SVUH / SVPH)   
+257.0,POMA,2652    ,Dr. Oleg Ilyinski                       
+599.0,GMA ,1507    ,Dr. Patricia Fitzgerald.                
+703.0,VHI ,9802    ,Con. Rad. Group.(Tal Int Med)           
+599.0,LAYA,34654   ,Dr. Patricia Fitzgerald.                
+836.0,VHI ,80546   ,Janusz Krawczyk Consultancy Limited     
+718.0,LAYA,33855   ,"Dr. M. Logan, M.D.                      "
+644.0,ILH ,554012  ,Beacon Pathology Group.(Haematology)    
+272.0,ESB ,LEE15   ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+249.0,LAYA,30111   ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+112.0,LAYA,55056   ,Consultant Anaesthetists Grp. SVUH      
+112.0,VHI ,7223    ,Consultant Anaesthetists Grp. SVUH      
+332.0,ILH ,1581044 ,"Dr. John Holian, FRCPI, PhD.            "
+332.0,GLO ,1182842 ,"Dr. John Holian, FRCPI, PhD.            "
+263.0,LAYA,30167   ,DR. EUGENE O'KELLY UNLIMITED COMPANY    
+249.0,VHI ,4423    ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+617.0,GLO ,1185710 ,Pathologists:  James Connolly Memorial  
+700.0,VHI ,10520   ,"Dr. Deirdre Duke, Consultant Radiologist"
+672.0,GMA ,4592    ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+330.0,ILH ,1752981 ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+600.0,VHI ,4953    ,Dr.Niamh Nolan - Consultant Pathologist 
+676.0,ILH ,554012  ,Beacon Pathology Group                  
+197.0,LAYA,35136   ,"Dr. Stephen Mannion,                    "
+323.0,ILH ,1240652 ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+331.0,ESB ,MAG35   ,"Dr. Colm C. Magee, M.D., M.P.H.         "
+255.0,GMA ,4565    ,DR. GEHAD ELBASTAWISY                   
+255.0,LAYA,34446   ,DR. GEHAD ELBASTAWISY                   
+676.0,GMA ,3817    ,Beacon Pathology Group                  
+672.0,LAYA,37844   ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+676.0,LAYA,55140   ,Beacon Pathology Group                  
+197.0,VHI ,2218    ,"Dr. Stephen Mannion,                    "
+331.0,GLO ,1214229 ,"Dr. Colm C. Magee, M.D., M.P.H.         "
+657.0,ILH ,1238871 ,Dr. Anne Gilleece                       
+332.0,GMA ,4448    ,"Dr. John Holian, FRCPI, PhD.            "
+575.0,VHI ,5254    ,"Dr Frank McGrath, Consultant Radiologist"
+629.0,ESB ,HAL03   ,"Prof. William W. Hall, Ph.D., M.D.      "
+629.0,VHI ,6061    ,"Prof. William W. Hall, Ph.D., M.D.      "
+332.0,LAYA,37688   ,"Dr. John Holian, FRCPI, PhD.            "
+335.0,GMA ,4080    ,"PROF. PAUL F.RIDGWAY, MD MMEDSC FRCSI   "
+170.0,LAYA,34596   ,"Dr. J. Lyons,                           "
+741.0,VHI ,12906   ,Mr. Darren Lui                          
+332.0,VHI ,11305   ,"Dr. John Holian, FRCPI, PhD.            "
+274.0,VHI ,80007   ,Dr Brendan Conroy Unlimited             
+644.0,ESB ,SAN05   ,BEACON PATHOLOGY GROUP.(HAEMATOLOGY)    
+657.0,GLO ,1184906 ,Dr. Anne Gilleece                       
+657.0,GMA ,7388    ,Dr. Anne Gilleece                       
+686.0,LAYA,38919   ,Dr. Deirdre Brady                       
+836.0,LAYA,70084   ,Janusz Krawczyk Consultancy Limited     
+645.0,ILH ,554012  ,Beacon Pathology Group.(Histology)      
+336.0,LAYA,37978   ,"MR. ALFONSO ANTEQUERA, MD, PHD, FACS    "
+644.0,GLO ,1180285 ,Beacon Pathology Group.(Haematology)    
+657.0,LAYA,36003   ,Dr. Anne Gilleece                       
+666.0,ESB ,HER13   ,HERMITAGE HISTOPATHOLOGY GROUP          
+640.0,LAYA,34605   ,"Dr. Clive Kilgallen, MB FRCPI FRCPath.  "
+836.0,GMA ,6684    ,Janusz Krawczyk Consultancy Limited     
+261.0,GMA ,4770    ,"DR. ALAN MCSHANE MB,BSC,FRCPI,FFARCSI   "
+686.0,VHI ,13123   ,Dr. Deirdre Brady                       
+125.0,VHI ,2694    ,"Dr. John Boylan,                        "
+726.0,LAYA,36678   ,"Dr. G. J. Albuquerque, MBChB FCRAD FRCR."
+170.0,VHI ,5723    ,"Dr. J. Lyons,                           "
+208.0,LAYA,35320   ,"Dr. Jawad Mustafa,                      "
+732.0,ILH ,1832169 ,HF DIAGNOSTICS                          
+810.0,ILH ,2495827 ,Blood Sciences Partnership              
+605.0,VHI ,4920    ,Prof. Susan Kennedy.                    
+581.0,VHI ,6198    ,"Dr. S. Ryan, Consultant Radiologist.    "
+150.0,GLO ,1339180 ,"Dr Michael Coughlan,                    "
+726.0,VHI ,10882   ,"Dr. G. J. Albuquerque, MBChB FCRAD FRCR."
+335.0,LAYA,37101   ,"PROF. PAUL F.RIDGWAY, MD MMEDSC FRCSI   "
+322.0,ILH ,VO4299  ,"Mr. Eadhbhard Mulligan, M.D., F.R.C.S.I."
+704.0,BUPA,55032   ,Consultant Radiologists. Beaumont Clinic
+159.0,ESB ,COM06   ,"DR. L. G. CONROY,                       "
+207.0,ILH ,2095998 ,Dr. Ola Petter Rosaeg MB BCh(NUI) FRCPC 
+207.0,ESB ,ROS01   ,DR. OLA PETTER ROSAEG MB BCH(NUI) FRCPC 
+226.0,LAYA,36650   ,"Dr. Miriam Harnett, MB FFARCSI          "
+335.0,VHI ,2215    ,"PROF. PAUL F.RIDGWAY, MD MMEDSC FRCSI   "
+271.0,ILH ,2430394 ,Teknit Medical Ltd (Dr. Tamilmani)      
+188.0,VHI ,6304    ,"Dr. Juliet McAleese,                    "
+816.0,LAYA,31264   ,Beech Medical Practice Ltd.             
+331.0,LAYA,36589   ,"Dr. Colm C. Magee, M.D., M.P.H.         "
+171.0,LAYA,30130   ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+683.0,GLO ,1317863 ,Dr. Khairin E M Khalib MRCPI FRCPath    
+706.0,LAYA,37096   ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+261.0,LAYA,30137   ,"DR. ALAN MCSHANE MB,BSC,FRCPI,FFARCSI   "
+653.0,VHI ,0000    ,"Dr. James O'Driscoll, Cons. Pathologist."
+271.0,ESB ,TAM01   ,Teknit Medical Ltd (Dr. Tamilmani)      
+334.0,ILH ,1669952 ,"DR. PETER NAUGHTON MD,FRCSI             "
+255.0,VHI ,64      ,DR. GEHAD ELBASTAWISY                   
+322.0,LAYA,35563   ,"Mr. Eadhbhard Mulligan, M.D., F.R.C.S.I."
+739.0,VHI ,11028   ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+683.0,GMA ,5221    ,Dr. Khairin E M Khalib MRCPI FRCPath    
+702.0,VHI ,9007    ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+107.0,ILH ,1241784 ,"Dr. J. McDonnell,                       "
+635.0,VHI ,3127    ,Dr. P. Thornton Consultant Haematologist
+334.0,ESB ,NAU03   ,"Dr. Peter Naughton MD,FRCSI             "
+334.0,GLO ,1224402 ,"Dr. Peter Naughton MD,FRCSI             "
+252.0,ILH ,1819689 ,"DR.TADHG LYNCH MRCPI,FCARCSI DPM        "
+683.0,LAYA,38435   ,Dr. Khairin Ezlin Mohamed Khalib        
+261.0,VHI ,3772    ,"DR. ALAN MCSHANE MB,BSC,FRCPI,FFARCSI   "
+638.0,GMA ,1539    ,Consultant Pathologists Loughlinstown   
+638.0,LAYA,55054   ,Consultant Pathologists Loughlinstown   
+638.0,VHI ,8207    ,Consultant Pathologists Loughlinstown   
+658.0,GMA ,4206    ,"Dr. Jerome Fennell, Cons. Microbiologist"
+639.0,ILH ,V02124  ,"Pathology Consultants, St. Michaels Hosp"
+672.0,VHI ,12155   ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+666.0,GLO ,1160323 ,HERMITAGE HISTOPATHOLOGY GROUP          
+639.0,GMA ,3334    ,"Pathology Consultants, St. Michaels Hosp"
+252.0,GLO ,1214537 ,"Dr. Tadhg Lynch, MRCPI,FCARCSI,DPM      "
+573.0,ILH ,726568  ,"DR.THORNTON, DR.BRENNAN & DR.O'HARE     "
+679.0,VHI ,3651    ,"PROF MARY LEADER,HISTOPATHOLOGIST       "
+740.0,VHI ,844     ,"DR. MARY KEOGAN, BSC MD FRCPI FRCPATH   "
+633.0,ESB ,SMY02   ,"Dr. Edmond Smyth, MB., FRCPI.           "
+248.0,ESB ,MUG03   ,"Dr. Mohan Mugawar,                      "
+251.0,POMA,3137    ,"Dr. Carla Glynn, MB,BCh,BaO,FRCA        "
+190.0,ESB ,FRO01   ,"Dr. S. Froese, Consultant Anaesthetist. "
+816.0,ILH ,2166519 ,Beech Medical Practice Ltd.             
+683.0,VHI ,12811   ,Dr. Khairin Ezlin Mohamed Khalib        
+336.0,VHI ,12305   ,"MR. ALFONSO ANTEQUERA, MD, PHD, FACS    "
+709.0,GLO ,1222317 ,"Dr Eoghan Laffan, Consultant Radiologist"
+226.0,VHI ,10984   ,"Dr. Miriam Harnett, MB FFARCSI          "
+159.0,GMA ,4678    ,"Dr. L. G. Conroy,                       "
+633.0,GMA ,1032    ,"Dr. Edmond Smyth, MB., FRCPI.           "
+573.0,ESB ,RAD81   ,"DR.THORNTON, DR.BRENNAN & DR.O'HARE     "
+573.0,GLO ,1186063 ,"Dr.Thornton, Dr.Brennan & Dr.O'Hare     "
+339.0,ILH ,1240823 ,Dr. Michael De Buitléir M.D. F.A.C.C    
+271.0,GLO ,1312691 ,Teknit Medical Ltd (Dr. Tamilmani)      
+646.0,ILH ,554012  ,Consultant Pathologists (Beacon)        
+646.0,GMA ,3817    ,Consultant Pathologists (Beacon)        
+646.0,LAYA,55140   ,Consultant Pathologists (Beacon)        
+646.0,VHI ,8625    ,Consultant Pathologists (Beacon)        
+647.0,ILH ,554012  ,Consultant Pathologists Group           
+647.0,GMA ,3817    ,Consultant Pathologists Group           
+647.0,LAYA,55140   ,Consultant Pathologists Group           
+647.0,VHI ,8625    ,Consultant Pathologists Group           
+171.0,VHI ,2663    ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+573.0,GMA ,1834    ,"DR.THORNTON, DR.BRENNAN & DR.O'HARE     "
+242.0,VHI ,4684    ,"Dr. Valerie Pollard M.B, F.F.A.R.C.S.I  "
+190.0,GLO ,1201410 ,"Dr. S. Froese, Consultant Anaesthetist. "
+800.0,ESB ,RAD10   ,Bons Rad Grp (Claim forms)              
+675.0,ILH ,1657991 ,"Dr. Saman Abdulla, F.R.C.Path.          "
+594.0,ILH ,V00441  ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+267.0,LAYA,34723   ,Dr. Brendan Conroy                      
+709.0,GMA ,4153    ,"Dr Eoghan Laffan, Consultant Radiologist"
+322.0,VHI ,3779    ,"Mr. Eadhbhard Mulligan, M.D., F.R.C.S.I."
+574.0,GLO ,1184725 ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+800.0,GLO ,1164717 ,Bons Rad Grp (Claim forms)              
+107.0,ESB ,MCD13   ,"Dr. J. McDonnell,                       "
+338.0,ILH ,925551  ,Dr. Brendan Doyle                       
+252.0,GMA ,4846    ,"DR.TADHG LYNCH MRCPI,FCARCSI DPM        "
+640.0,POMA,1619    ,"Dr. Clive Kilgallen, MB FRCPI           "
+248.0,GLO ,1211344 ,"Dr. Mohan Mugawar,                      "
+194.0,ILH ,505039  ,"Dr. Arabella Fahy,                      "
+194.0,ESB ,FAH14   ,"Dr. Arabella Fahy,                      "
+709.0,LAYA,37290   ,"Dr Eoghan Laffan, Consultant Radiologist"
+194.0,GMA ,2865    ,"Dr. Arabella Fahy,                      "
+633.0,LAYA,30453   ,"Dr. Edmond Smyth, MB., FRCPI.           "
+633.0,VHI ,2933    ,"Dr. Edmond Smyth, MB., FRCPI.           "
+107.0,GLO ,1241306 ,Dr Joseph McDonnell                     
+107.0,GMA ,1289    ,"Dr. J. McDonnell,                       "
+277.0,ILH ,2493066 ,Dr Tadhg Lynch Unlimited                
+852.0,VHI ,VHI852  ,                                        
+194.0,LAYA,35142   ,"Dr. Arabella Fahy,                      "
+326.0,ILH ,V572591 ,"Mr. Ross Kingston, MCh FRCSI            "
+640.0,VHI ,849     ,"Dr. Clive Kilgallen, MB FRCPI FRCPath.  "
+347.0,GMA ,6133    ,Mr. John Curran                         
+706.0,VHI ,11195   ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+617.0,GMA ,425     ,Pathologists:  James Connolly Memorial. 
+570.0,LAYA,55118   ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+617.0,LAYA,55018   ,Pathologists:  James Connolly Memorial. 
+594.0,ESB ,DON09   ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+674.0,ILH ,1241387 ,Navan Pathology Group                   
+715.0,VHI ,11803   ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+326.0,GMA ,3935    ,"Mr. Ross Kingston, MCh FRCSI            "
+103.0,LAYA,30082   ,"Dr. James Gardiner,                     "
+103.0,VHI ,638     ,"Dr. James Gardiner,                     "
+316.0,VHI ,2111    ,"Dr Martin Quinn, Consultant Cardiologist"
+645.0,GMA ,3817    ,Beacon Pathology Group.(Histology)      
+208.0,VHI ,3056    ,"Dr. Jawad Mustafa,                      "
+617.0,VHI ,8135    ,Pathologists:  James Connolly Memorial. 
+194.0,VHI ,2054    ,"Dr. Arabella Fahy,                      "
+190.0,GMA ,2722    ,"Dr. S. Froese, Consultant Anaesthetist. "
+248.0,GMA ,3712    ,"Dr. Mohan Mugawar,                      "
+271.0,GMA ,5671    ,Teknit Medical Ltd (Dr. Tamilmani)      
+753.0,ESB ,HIC10   ,Dr. Neil Hickey FFR RCSI                
+257.0,VHI ,10846   ,DR. OLEG ILYINSKI                       
+675.0,GMA ,4655    ,"Dr. Saman Abdulla, F.R.C.Path.          "
+572.0,ILH ,1235990 ,Consultant Radiologists.(Beaumont)      
+673.0,ILH ,1241899 ,General Pathology Group S.E. Region.    
+718.0,VHI ,6576    ,"Dr. M. Logan, M.D.                      "
+326.0,LAYA,36699   ,"Mr. Ross Kingston, MCh FRCSI            "
+670.0,GLO ,1184951 ,Dr. Brian Hennessy MD MRCPI FRCPath     
+753.0,GLO ,1185390 ,Dr. Neil Hickey (BRC account)           
+661.0,GLO ,1185808 ,Blackrock Clinic Pathology Grp          
+645.0,LAYA,55140   ,Beacon Pathology Group.(Histology)      
+190.0,LAYA,35013   ,"Dr. S. Froese, Consultant Anaesthetist. "
+704.0,GMA ,2681    ,Consultant Radiologists. Beaumont Clinic
+800.0,GMA ,229     ,Bons Rad Grp (Claim forms)              
+848.0,ESB ,DOY25   ,"Dr. Aoife Doyle,                        "
+330.0,ESB ,MMS01   ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+160.0,ILH ,1241777 ,"Dr. Michael Murray,                     "
+670.0,GMA ,2612    ,Dr. Brian Hennessy MD MRCPI FRCPath     
+709.0,VHI ,11569   ,"Dr Eoghan Laffan, Consultant Radiologist"
+241.0,ESB ,CRO37   ,Dr. L. Crowley.                         
+800.0,LAYA,55024   ,Bons Rad Grp (Claim forms)              
+334.0,GMA ,4702    ,"DR. PETER NAUGHTON MD,FRCSI             "
+676.0,VHI ,8625    ,Beacon Pathology Group                  
+272.0,GLO ,1198265 ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+704.0,VHI ,9155    ,Consultant Radiologists. Beaumont Clinic
+836.0,ESB ,KRA02   ,Janusz Krawczyk Consultancy Limited     
+276.0,LAYA,55170   ,SIVUH Anaesthesia Group                 
+680.0,ILH ,1705821 ,Dr. Vivien Murphy Consultant Pathologist
+331.0,VHI ,10885   ,"Dr. Colm C. Magee, M.D., M.P.H.         "
+612.0,VHI ,8515    ,Consultant Pathologists Drogheda        
+680.0,LAYA,38001   ,Dr. Vivien Murphy Consultant Pathologist
+681.0,LAYA,34333   ,Dr B Loftus MB BCh FRCPath FFPath. RCPI 
+169.0,LAYA,34359   ,"Dr. Brian Kinirons, F.F.A.R.C.S.I.      "
+326.0,VHI ,10566   ,"Mr. Ross Kingston, MCh FRCSI            "
+675.0,LAYA,37924   ,"Dr. Saman Abdulla, F.R.C.Path.          "
+800.0,VHI ,9137    ,Bons Rad Grp (Claim forms)              
+193.0,ILH ,1240731 ,Dr. Ingrid Browne MB BCh BAO FFARCSI    
+269.0,GLO ,1184827 ,Dr. Jawad Mustafa                       
+334.0,LAYA,37900   ,"DR. PETER NAUGHTON MD,FRCSI             "
+659.0,ESB ,FIN11   ,Dr Stephen Finn MB PhD FRCPath          
+849.0,LAYA,71063   ,"Dr. Sarah Mullins,                      "
+849.0,GMA ,7610    ,"Dr. Sarah Mullins,                      "
+241.0,GLO ,1184868 ,Dr. L. Crowley.                         
+572.0,ESB ,RAD80   ,Consultant Radiologists.(Beaumont)      
+594.0,GLO ,1184158 ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+673.0,ESB ,PAT06   ,General Pathology Group S.E. Region.    
+756.0,VHI ,12874   ,Dr Suhail Muzaffar                      
+276.0,POMA,3438    ,SIVUH Anaesthesia Group                 
+272.0,GMA ,4698    ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+645.0,VHI ,8625    ,Beacon Pathology Group.(Histology)      
+621.0,GLO ,1202416 ,Drogheda / Dundalk Pathology Group      
+661.0,GMA ,4405    ,BLACKROCK CLINIC PATHOLOGY GRP          
+558.0,VHI ,9000    ,Louth & Meath Radiology Group           
+252.0,LAYA,38086   ,"DR.TADHG LYNCH MRCPI,FCARCSI DPM        "
+594.0,GMA ,0132    ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+276.0,VHI ,12845   ,SIVUH Anaesthesia Group                 
+594.0,LAYA,31241   ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+582.0,ILH ,1240944 ,"Dr. C. Brenner, Consultant Radiologist. "
+169.0,VHI ,211     ,"Dr. Brian Kinirons, F.F.A.R.C.S.I.      "
+594.0,VHI ,3427    ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+670.0,LAYA,34732   ,Dr. Brian Hennessy MD MRCPI FRCPath     
+675.0,VHI ,11475   ,"Dr. Saman Abdulla, F.R.C.Path.          "
+673.0,GLO ,1185949 ,General Pathology Group S.E. Region     
+678.0,ESB ,PAR10   ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+582.0,LAYA,35228   ,"Dr. C. Brenner, Consultant Radiologist. "
+334.0,VHI ,12235   ,"DR. PETER NAUGHTON MD,FRCSI             "
+193.0,ESB ,BRO40   ,Dr. Ingrid Browne MB BCh BAO FFARCSI    
+762.0,ILH ,2427709 ,Dr Mihaela Luminita Sirbu               
+330.0,GLO ,1177987 ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+762.0,ESB ,SIR01   ,Dr Mihaela Luminita Sirbu               
+193.0,GLO ,1180894 ,DR. INGRID BROWNE MB BCH BAO FFARCSI    
+656.0,ILH ,282385  ,Consultant Pathologists Loughlinstown   
+330.0,GMA ,3648    ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+673.0,GMA ,2551    ,General Pathology Group S.E. Region.    
+639.0,LAYA,55113   ,"Pathology Consultants, St. Michaels Hosp"
+755.0,ILH ,1993683 ,"Dr. Ian Robinson, M.D.                  "
+734.0,GMA ,5309    ,SLK Imaging Ltd                         
+343.0,ILH ,0000    ,MR. EADHBHARD MULLIGAN                  
+712.0,ILH ,1124086 ,"Dr. W. Benfayed, Consultant Radiologist."
+607.0,POMA,0432    ,Dr.Nessa O'Donnell                      
+330.0,LAYA,36220   ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+582.0,VHI ,2634    ,"Dr. C. Brenner, Consultant Radiologist. "
+607.0,VHI ,4931    ,Dr.Nessa O'Donnell                      
+190.0,VHI ,1583    ,"Dr. S. Froese, Consultant Anaesthetist. "
+330.0,VHI ,10562   ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+714.0,ILH ,1       ,                                        
+714.0,ESB ,1       ,                                        
+714.0,GMA ,1       ,                                        
+714.0,LAYA,1       ,                                        
+714.0,VHI ,1       ,                                        
+346.0,VHI ,80045   ,Prof. Peter Conlon Unlimited            
+236.0,VHI ,2188    ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+681.0,VHI ,0646    ,Dr B Loftus MB BCh FRCPath FFPath. RCPI 
+673.0,LAYA,55014   ,General Pathology Group S.E. Region.    
+185.0,ILH ,1238261 ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+762.0,GLO ,1413693 ,Dr Mihaela Luminita Sirbu               
+271.0,LAYA,38850   ,Teknit Medical Ltd (Dr. Tamilmani)      
+343.0,ESB ,0000    ,MR. EADHBHARD MULLIGAN                  
+803.0,ILH ,2277929 ,Dr. Francisco Sevilla                   
+316.0,ILH ,1240981 ,"Dr Martin Quinn, Consultant Cardiologist"
+241.0,GMA ,6592    ,DR. L. Crowley                          
+271.0,POMA,4605    ,Teknit Medical Ltd                      
+185.0,ESB ,MUR65   ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+234.0,ESB ,BUR09   ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+234.0,GLO ,1193857 ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+752.0,ILH ,784695  ,Dr. Sean Curran FFR RCSI                
+252.0,VHI ,12388   ,"DR.TADHG LYNCH MRCPI,FCARCSI DPM        "
+241.0,LAYA,37367   ,Dr. L. Crowley.                         
+185.0,GLO ,1184816 ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+734.0,LAYA,55118   ,SLK Imaging Ltd                         
+185.0,GMA ,2404    ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+341.0,ILH ,539362  ,"Mr. Christopher Mascott M.D.,FRCS(C)    "
+734.0,POMA,1451    ,SLK Imaging Ltd(St.Lukes& Kilcreen)     
+248.0,LAYA,35842   ,DR. MOHAN MUGAWAR                       
+803.0,ESB ,CHI03   ,Dr. Francisco Sevilla                   
+597.0,ILH ,554011  ,Dr Martina Morrin Consultant Radiologist
+338.0,ESB ,DOY19   ,Dr. Brendan Doyle                       
+597.0,ESB ,MOR45   ,Dr Martina Morrin Consultant Radiologist
+269.0,GMA ,7573    ,Dr. Jawad Mustafa                       
+737.0,ILH ,1993683 ,Dr. Ian Robinson.                       
+630.0,VHI ,1       ,"Dr. Michael Jeffers, Con. Pathologist.  "
+269.0,LAYA,35320   ,Dr. Jawad Mustafa                       
+762.0,GMA ,5672    ,Dr Mihaela Luminita Sirbu               
+639.0,VHI ,10193   ,"Pathology Consultants, St. Michaels Hosp"
+308.0,ILH ,594025  ,"Dr. Catriona Lawlor, BSC MD FRCS(C)     "
+572.0,GLO ,1184347 ,Beaumont Hospital Radiology Group       
+723.0,ILH ,2410296 ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+240.0,LAYA,70411   ,Dr Aftab Alam Baloch Incorporated       
+803.0,GLO ,1430072 ,Dr. Francisco Sevilla                   
+574.0,GMA ,875     ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+808.0,GMA ,590     ,Laboratory Medicine Service             
+753.0,GMA ,2257    ,Dr. Neil Hickey FFR RCSI                
+752.0,ESB ,CUR35   ,Dr. Sean Curran FFR RCSI                
+265.0,VHI ,7625    ,BEACON ICU GROUP                        
+308.0,GLO ,1185213 ,"Dr. Catriona Lawlor, BSC MD FRCS(C)     "
+272.0,LAYA,30111   ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+644.0,GMA ,3817    ,Beacon Pathology Group.(Haematology)    
+723.0,GMA ,1695    ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+597.0,GMA ,0000    ,Dr Martina Morrin Consultant Radiologist
+808.0,LAYA,55011   ,Laboratory Medicine Service             
+659.0,GMA ,4244    ,Dr Stephen Finn MB PhD FRCPath          
+328.0,ILH ,1240334 ,"Mr. Parnell Keeling, MCh FRCSI FACS     "
+328.0,GMA ,380     ,"Mr. Parnell Keeling, MCh FRCSI FACS     "
+250.0,VHI ,1050    ,DR. L.G. CONROY - COMFORT IN PAIN       
+328.0,LAYA,31423   ,"Mr. Parnell Keeling, MCh FRCSI FACS     "
+810.0,POMA,4699    ,Blood Sciences Partnership              
+753.0,LAYA,34007   ,Dr. Neil Hickey FFR RCSI                
+263.0,VHI ,80091   ,DR. EUGENE O'KELLY UNLIMITED COMPANY    
+234.0,GMA ,4081    ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+572.0,GMA ,2681    ,Consultant Radiologists.(Beaumont)      
+644.0,LAYA,55140   ,Beacon Pathology Group.(Haematology)    
+572.0,LAYA,55032   ,Consultant Radiologists.(Beaumont)      
+805.0,GLO ,1199941 ,Laboratory Medicine Service             
+107.0,LAYA,30131   ,"Dr. J. McDonnell,                       "
+729.0,ILH ,1653371 ,Dr. Joanna Pearly Ti.                   
+729.0,LAYA,37911   ,Dr. Joanna Pearly Ti.                   
+340.0,VHI ,80246   ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+712.0,GMA ,4343    ,"Dr. W. Benfayed, Consultant Radiologist."
+712.0,LAYA,37721   ,"Dr. W. Benfayed, Consultant Radiologist."
+590.0,ILH ,1236902 ,Consultant Radiologists Group.(Crumlin) 
+597.0,LAYA,35867   ,Dr Martina Morrin Consultant Radiologist
+148.0,LAYA,33724   ,"Dr. Masud Awan, Consultant Anaesthetist "
+712.0,VHI ,11996   ,"Dr. W. Benfayed, Consultant Radiologist."
+572.0,VHI ,9155    ,Consultant Radiologists.(Beaumont)      
+733.0,ILH ,0       ,DR. ANGELA O'BRIEN                      
+733.0,LAYA,0       ,DR. ANGELA O'BRIEN                      
+733.0,VHI ,123420  ,DR. ANGELA O'BRIEN                      
+644.0,VHI ,8625    ,Beacon Pathology Group.(Haematology)    
+324.0,LAYA,33876   ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+592.0,LAYA,55024   ,Bons Radiology Group                    
+753.0,VHI ,6671    ,Dr. Neil Hickey FFR RCSI                
+678.0,GLO ,1160214 ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+734.0,VHI ,12797   ,SLK Imaging Ltd                         
+324.0,VHI ,6346    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+338.0,GLO ,1184174 ,Dr. Brendan Doyle                       
+270.0,ILH ,1594685 ,SIVUH Anaesthesia Group                 
+338.0,GMA ,5658    ,Dr. Brendan Doyle                       
+590.0,ESB ,RAD11   ,Consultant Radiologists Group.(Crumlin) 
+723.0,LAYA,31320   ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+206.0,LAYA,34066   ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+590.0,GLO ,1186079 ,Crumlin Hospital Radiology Group        
+155.0,ILH ,734555  ,D2 ANAESTHESIA MG                       
+338.0,LAYA,37320   ,Dr. Brendan Doyle                       
+590.0,GMA ,3252    ,Consultant Radiologists Group.(Crumlin) 
+338.0,VHI ,11607   ,Dr. Brendan Doyle                       
+621.0,VHI ,8515    ,Consultant Pathologists Lourdes Hospital
+592.0,POMA,0479    ,Bons Radiology Group                    
+234.0,LAYA,34055   ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+701.0,GLO ,1186096 ,Consultant Radiologists.(Tullamore)     
+849.0,ESB ,MUL73   ,"Dr. Sarah Mullins,                      "
+805.0,GMA ,590     ,Laboratory Medicine Service             
+808.0,POMA,0267    ,Laboratory Medicine Service             
+150.0,GMA ,1805    ,"Dr Michael Coughlan,                    "
+266.0,ESB ,LIM04   ,Limerick Anaesthesia Group              
+755.0,ESB ,ROB 07  ,"Dr. Ian Robinson, M.D.                  "
+762.0,LAYA,38848   ,Dr Mihaela Luminita Sirbu               
+148.0,VHI ,5490    ,"Dr. Masud Awan, Consultant Anaesthetist "
+206.0,VHI ,3957    ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+762.0,VHI ,13094   ,Dr Mihaela Luminita Sirbu               
+243.0,ILH ,2545253 ,Dr. Alan Broderick                      
+812.0,GLO ,1530319 ,Beacon Blood Sciences Partnership       
+308.0,GMA ,3328    ,"Dr. Catriona Lawlor, BSC MD FRCS(C)     "
+590.0,LAYA,55023   ,Consultant Radiologists Group.(Crumlin) 
+193.0,GMA ,2860    ,Dr. Ingrid Browne MB BCh BAO FFARCSI    
+659.0,LAYA,37396   ,Dr Stephen Finn MB PhD FRCPath          
+187.0,ILH ,320003  ,"Dr. Patrick Benson, FFARCSI, DABA.      "
+803.0,GMA ,5508    ,Dr. Francisco Sevilla                   
+656.0,ESB ,NOL01   ,Consultant Pathologists Loughlinstown   
+812.0,LAYA,55186   ,Beacon Blood Sciences Partnership       
+701.0,GMA ,3225    ,Consultant Radiologists.(Tullamore)     
+678.0,GMA ,0000    ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+277.0,ESB ,LYN37   ,Dr Tadhg Lynch Unlimited                
+238.0,ESB ,SGA01   ,SG Anaesthesia Ltd.                     
+574.0,LAYA,31260   ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+752.0,GLO ,1183851 ,Dr. Sean Curran FFR RCSI                
+574.0,VHI ,3655    ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+607.0,ILH ,1237668 ,Dr.Nessa O'Donnell                      
+323.0,ESB ,CON30   ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+803.0,LAYA,38690   ,Dr. Francisco Sevilla                   
+716.0,ILH ,1241283 ,"Dr. Christine Jennings, M.D.            "
+169.0,GLO ,1229718 ,                                        
+727.0,ILH ,1370221 ,Dr Niamh Hambly MBBChBAO MRCPI FFRRCSI  
+656.0,LAYA,55054   ,Consultant Pathologists Loughlinstown   
+234.0,VHI ,6722    ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+323.0,GLO ,1182497 ,Prof. Peter Conlon                      
+272.0,VHI ,4423    ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+597.0,VHI ,10256   ,Dr Martina Morrin Consultant Radiologist
+273.0,ILH ,2097237 ,"Dr. Fasih Khan, MBBS FFARSCI            "
+805.0,LAYA,55011   ,Laboratory Medicine Service             
+802.0,ESB ,M0038   ,Dr. Eoghan Mooney                       
+323.0,GMA ,2184    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+700.0,ILH ,264963  ,"Dr. Deirdre Duke, Consultant Radiologist"
+678.0,LAYA,37668   ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+803.0,VHI ,12967   ,Dr. Francisco Sevilla                   
+273.0,ESB ,KHA07   ,"Dr. Fasih Khan, MBBS FFARSCI            "
+273.0,GLO ,1198773 ,"Dr. Fasih Khan, MBBS FFARSCI            "
+118.0,ESB ,BRE07   ,"Dr. Patrick J. Breen, DCH., FFARCSI.    "
+673.0,POMA,1398    ,General Pathology Group S.E. Region     
+674.0,ESB ,PAT53   ,Navan Pathology Group                   
+159.0,LAYA,33680   ,"Dr. L. G. Conroy,                       "
+193.0,LAYA,34803   ,Dr. Ingrid Browne MB BCh BAO FFARCSI    
+323.0,LAYA,33876   ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+805.0,POMA,0267    ,Laboratory Medicine Service             
+193.0,VHI ,1045    ,Dr. Ingrid Browne MB BCh BAO FFARCSI    
+607.0,ESB ,ODO01   ,Dr.Nessa O'Donnell                      
+216.0,ILH ,1602178 ,PAIN INTERVENTIONAL THERAPY CORK        
+592.0,VHI ,9137    ,Bons Radiology Group                    
+273.0,GMA ,5184    ,"Dr. Fasih Khan, MBBS FFARSCI            "
+103.0,ILH ,1238602 ,"Dr. James Gardiner,                     "
+118.0,GLO ,1207267 ,"Dr. Patrick J. Breen, DCH., FF          "
+671.0,GLO ,1184826 ,"Dr. Kirsten Schaffer, M.D., F.          "
+341.0,GLO ,1351229 ,"Mr. Christopher Mascott M.D.,FRCS(C)    "
+118.0,GMA ,937     ,"Dr. Patrick J. Breen, DCH., FFARCSI.    "
+118.0,LAYA,30027   ,"Dr. Patrick J. Breen, DCH., FFARCSI.    "
+721.0,ILH ,2410296 ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+273.0,LAYA,33784   ,"Dr. Fasih Khan, MBBS FFARSCI            "
+339.0,ESB ,DEB02   ,Dr. Michael De Buitleir M.D. F.A.C.C    
+852.0,ILH ,AVIV852 ,                                        
+155.0,ESB ,ANA11   ,D2 ANAESTHESIA MG                       
+323.0,VHI ,6346    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+852.0,GLO ,GLO852  ,                                        
+851.0,ILH ,AVIV851 ,"Dr. Vourneen Healy, Test Account        "
+852.0,LAYA,LAYA852 ,                                        
+851.0,GLO ,GLO851  ,"Dr. Vourneen Healy, Test Account        "
+851.0,LAYA,LAYA851 ,"Dr. Vourneen Healy, Test Account        "
+851.0,VHI ,VHI851  ,"Dr. Vourneen Healy, Test Account        "
+872.0,ILH ,AVIV872 ,                                        
+854.0,ILH ,AVIV854 ,Dr. Peter N. Faul (Test Account)        
+854.0,GLO ,GLO854  ,Dr. Peter N. Faul (Test Account)        
+854.0,LAYA,LAYA854 ,Dr. Peter N. Faul (Test Account)        
+854.0,VHI ,VHI854  ,Dr. Peter N. Faul (Test Account)        
+872.0,GLO ,GLO872  ,                                        
+872.0,LAYA,LAYA872 ,                                        
+872.0,VHI ,VHI872  ,                                        
+143.0,LAYA,33818   ,"Dr Saud Khawar Bajwa,                   "
+727.0,GMA ,4851    ,DR NIAMH HAMBLY MBBCHBAO MRCPI FFRRCSI  
+727.0,LAYA,37653   ,Dr Niamh Hambly MBBChBAO MRCPI FFRRCSI  
+727.0,VHI ,11919   ,Dr Niamh Hambly MBBChBAO MRCPI FFRRCSI  
+232.0,ESB ,MER03   ,MERCY ANAESTHETIC GROUP                 
+175.0,GMA ,204     ,"Dr. Robert Concannon,                   "
+345.0,VHI ,12345   ,MR. PHILIP BRADY CONSULTANT ORTHOPAEDIC 
+721.0,ESB ,WIL10   ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+159.0,VHI ,1050    ,"Dr. L. G. Conroy,                       "
+232.0,GLO ,1186039 ,Consultant Anaesthetists Grp Mercy Hosp 
+661.0,LAYA,55058   ,BLACKROCK CLINIC PATHOLOGY GRP          
+143.0,VHI ,5374    ,"Dr Saud Khawar Bajwa,                   "
+212.0,ILH ,548490  ,"Dr. Joseph F. Costello,MB, FCARCSI      "
+187.0,ESB ,BEN04   ,"Dr. Patrick Benson, FFARCSI, DABA.      "
+339.0,GMA ,05880   ,Dr. Michael De Buitléir M.D. F.A.C.C    
+262.0,GMA ,1128    ,D2 ANAESTHESIA HG                       
+674.0,GLO ,1202416 ,Navan Pathology Group                   
+607.0,GLO ,1195754 ,Dr.Nessa O'Donnell                      
+273.0,VHI ,80093   ,"Dr. Fasih Khan, MBBS FFARSCI            "
+723.0,VHI ,5105    ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+678.0,VHI ,4863    ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+341.0,GMA ,4007    ,"Mr. Christopher Mascott M.D.,FRCS(C)    "
+341.0,LAYA,36217   ,"Mr. Christopher Mascott M.D.,FRCS(C)    "
+175.0,LAYA,30042   ,"Dr. Robert Concannon,                   "
+175.0,POMA,0085    ,"Dr. Robert Concannon,                   "
+661.0,VHI ,11833   ,BLACKROCK CLINIC PATHOLOGY GRP          
+308.0,LAYA,35804   ,"Dr. Catriona Lawlor, BSC MD FRCS(C)     "
+670.0,VHI ,421     ,Dr. Brian Hennessy MD MRCPI FRCPath     
+716.0,ESB ,JEN06   ,"Dr. Christine Jennings, M.D.            "
+317.0,ESB ,MON08   ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+810.0,GLO ,1488525 ,Blood Sciences Parnership               
+752.0,GMA ,4496    ,Dr. Sean Curran FFR RCSI                
+805.0,VHI ,8213    ,Laboratory Medicine Service             
+150.0,LAYA,33322   ,"Dr Michael Coughlan,                    "
+684.0,GLO ,1470164 ,"Dr. Emer Caffrey,                       "
+752.0,LAYA,36955   ,Dr. Sean Curran FFR RCSI                
+755.0,GLO ,1242602 ,"Dr. Ian Robinson, M.D.                  "
+724.0,ILH ,1236829 ,"Dr. John O'Callaghan, Cons. Radiologist."
+716.0,GLO ,1188491 ,"Dr. Christine Jennings, M.D.            "
+666.0,GMA ,4714    ,HERMITAGE HISTOPATHOLOGY GROUP          
+183.0,ILH ,1237909 ,Professor John Laffey                   
+808.0,VHI ,8213    ,Laboratory Medicine Service             
+755.0,GMA ,5080    ,"Dr. Ian Robinson, M.D.                  "
+666.0,LAYA,55151   ,HERMITAGE HISTOPATHOLOGY GROUP          
+590.0,VHI ,14678   ,Crumlin Hospital Radiology Group        
+174.0,GMA ,5423    ,"Dr. Brendan Conroy,                     "
+810.0,GMA ,5757    ,Blood Sciences Partnership              
+622.0,ILH ,1237552 ,Consultant Pathologists Tallaght        
+174.0,LAYA,34723   ,"Dr. Brendan Conroy,                     "
+700.0,ESB ,DUK01   ,"Dr. Deirdre Duke, Consultant Radiologist"
+700.0,GLO ,1184581 ,"Dr. Deirdre Duke, Consultant Radiologist"
+807.0,ILH ,2447422 ,Expert Histopathology Group             
+659.0,VHI ,11647   ,Dr Stephen Finn MB PhD FRCPath          
+721.0,GLO ,1208494 ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+339.0,LAYA,34186   ,Dr. Michael De Buitléir M.D. F.A.C.C    
+251.0,VHI ,11092   ,DR. CARLA GLYNN                         
+269.0,VHI ,14691   ,Dr. Jawad Mustafa                       
+755.0,LAYA,38428   ,"Dr. Ian Robinson, M.D.                  "
+580.0,GMA ,2978    ,Naas Radiology Group.                   
+599.0,POMA,1651    ,Dr. Patricia Fitzgerald.                
+242.0,ILH ,V01674  ,"Dr. Valerie Pollard M.B, F.F.A.R.C.S.I  "
+262.0,ILH ,734555  ,D2 ANAESTHESIA HG                       
+802.0,GLO ,1185458 ,Dr. Eoghan Mooney                       
+755.0,VHI ,12886   ,"Dr. Ian Robinson, M.D.                  "
+599.0,VHI ,753     ,Dr. Patricia Fitzgerald.                
+602.0,ESB ,PAT08   ,Consultant Pathologists Beaumont Hosp.  
+256.0,GLO ,1234619 ,DR. NIALL FANNING                       
+724.0,ESB ,OCA12   ,"Dr. John O'Callaghan, Cons. Radiologist."
+756.0,ILH ,2194458 ,Dr Suhail Muzaffar                      
+270.0,ESB ,SOU01   ,SIVUH Anaesthesia Group                 
+580.0,LAYA,55129   ,Naas Radiology Group.                   
+118.0,VHI ,3165    ,"Dr. Patrick J. Breen, DCH., FFARCSI.    "
+212.0,GLO ,1318079 ,"Dr. Joseph F. Costello,MB, FCARCSI      "
+671.0,GMA ,4297    ,"Dr. Kirsten Schaffer, M.D., F.R.C.P.I.  "
+271.0,VHI ,80203   ,Teknit Medical Ltd (Dr. Tamilmani)      
+721.0,GMA ,5620    ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+260.0,GLO ,1167810 ,Dr. JJ Magner Incorporated.             
+602.0,GLO ,1214168 ,Consultant Pathologists Beaumont        
+155.0,GLO ,1186064 ,D2 ANAESTHESIA MG                       
+183.0,GMA ,2696    ,Professor John Laffey                   
+224.0,VHI ,2209    ,"Dr. Elizabeth Connolly, (Anaesthetist)  "
+701.0,LAYA,55028   ,Consultant Radiologists.(Tullamore)     
+150.0,VHI ,5601    ,"Dr Michael Coughlan,                    "
+260.0,GMA ,5179    ,DR. JJ MAGNER INCORPORATED              
+174.0,POMA,1630    ,"Dr. Brendan Conroy,                     "
+687.0,ESB ,TAL02   ,Tallaght Histopathology Group           
+343.0,GMA ,0000    ,MR. EADHBHARD MULLIGAN                  
+682.0,ILH ,1992060 ,DR. SINEAD MCNICHOLAS                   
+724.0,GLO ,1185910 ,"DR. JOHN O'CALLAGHAN, CONS. RADIOLOGIST."
+724.0,GMA ,480     ,"Dr. John O'Callaghan, Cons. Radiologist."
+260.0,LAYA,34519   ,DR. JJ MAGNER INCORPORATED              
+682.0,GMA ,5202    ,Dr. Sinead McNicholas                   
+674.0,GMA ,4369    ,Navan Pathology Group                   
+160.0,ESB ,MUR27   ,"Dr. Michael Murray,                     "
+674.0,LAYA,55049   ,Navan Pathology Group                   
+315.0,ILH ,VO4299  ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+277.0,GLO ,1214537 ,Dr Tadhg Lynch Unlimited                
+277.0,GMA ,5792    ,Dr Tadhg Lynch Unlimited                
+277.0,LAYA,39009   ,Dr Tadhg Lynch Unlimited                
+102.0,ILH ,1240994 ,"Dr Katrina O'Sullivan,                  "
+102.0,ESB ,OSU15   ,"Dr Katrina O'Sullivan,                  "
+810.0,LAYA,55180   ,Blood Sciences Partnership              
+308.0,VHI ,10165   ,"Dr. Catriona Lawlor, BSC MD FRCS(C)     "
+810.0,VHI ,13191   ,Blood Sciences Partnership              
+341.0,VHI ,10588   ,"Mr. Christopher Mascott M.D.,FRCS(C)    "
+802.0,GMA ,1737    ,Dr. Eoghan Mooney                       
+160.0,GLO ,1245181 ,"Dr. Michael Murray,                     "
+160.0,GMA ,1960    ,"Dr. Michael Murray,                     "
+262.0,LAYA,55061   ,D2 ANAESTHESIA HG                       
+238.0,GMA ,7057    ,SG Anaesthesia Ltd                      
+802.0,LAYA,33960   ,Dr. Eoghan Mooney                       
+651.0,ILH ,283691  ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+607.0,GMA ,1427    ,Dr.Nessa O'Donnell                      
+607.0,LAYA,30878   ,Dr.Nessa O'Donnell                      
+673.0,VHI ,8005    ,General Pathology Group S.E. Region.    
+237.0,GLO ,1254358 ,                                        
+262.0,VHI ,7168    ,D2 ANAESTHESIA HG                       
+232.0,GMA ,150     ,Consultant Anaesthetists Grp Mercy Hosp 
+687.0,GLO ,1507761 ,Tallaght Histopathology Group           
+724.0,LAYA,31291   ,"Dr. John O'Callaghan, Cons. Radiologist."
+183.0,LAYA,34936   ,Professor John Laffey                   
+240.0,VHI ,80646   ,Dr Aftab Alam Baloch Incorporated Ltd   
+724.0,VHI ,3357    ,"Dr. John O'Callaghan, Cons. Radiologist."
+270.0,GLO ,1186050 ,SIVUH Anaesthesia Group                 
+207.0,GLO ,1184851 ,Dr. Ola Petter Rosaeg MB BCh(NUI) FRCPC 
+238.0,LAYA,70450   ,SG Anaesthesia Ltd                      
+682.0,LAYA,38286   ,DR. SINEAD MCNICHOLAS                   
+251.0,ILH ,614781  ,DR. CARLA GLYNN                         
+216.0,ESB ,PAI01   ,PAIN INTERVENTIONAL THERAPY CORK        
+721.0,LAYA,31320   ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+657.0,POMA,2773    ,Dr. Anne Gilleece                       
+682.0,VHI ,12667   ,DR. SINEAD MCNICHOLAS                   
+174.0,VHI ,1091    ,"Dr. Brendan Conroy,                     "
+309.0,GLO ,1182760 ,"Mr. Arnold D. K. Hill, M.Ch.,           "
+309.0,GMA ,4610    ,"Mr. Arnold D. K. Hill, M.Ch., F.R.C.S.I."
+238.0,VHI ,80649   ,SG Anaesthesia Ltd.                     
+207.0,GMA ,5180    ,Dr. Ola Petter Rosaeg MB BCh(NUI) FRCPC 
+232.0,LAYA,55142   ,Consultant Anaesthetists Grp Mercy Hosp 
+216.0,GLO ,1548087 ,PAIN INTERVENTIONAL THERAPY CORK        
+207.0,LAYA,35666   ,Dr. Ola Petter Rosaeg MB BCh(NUI) FRCPC 
+657.0,VHI ,14574   ,Dr. Anne Gilleece                       
+757.0,ILH ,2199742 ,Dr. Susanna Frost                       
+277.0,VHI ,80243   ,Dr Tadhg Lynch Unlimited                
+315.0,LAYA,35563   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+713.0,ILH ,1097629 ,"Dr. Ailbhe Tarrant, Cons. Radiologist   "
+757.0,GLO ,1374111 ,Dr. Susanna Frost                       
+187.0,GLO ,1252752 ,"Dr. Patrick Benson, FFARCSI             "
+304.0,ILH ,1240450 ,"Prof. Cathal J. Kelly, MCh FRCSI FRCSI  "
+626.0,LAYA,33956   ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+304.0,ESB ,  0     ,"Prof. Cathal J. Kelly, MCh FRCSI FRCSI  "
+187.0,GMA ,470     ,"Dr. Patrick Benson, FFARCSI, DABA.      "
+669.0,ILH ,2426386 ,Dr. Rosemary Fitzgerald                 
+674.0,VHI ,8515    ,Navan Pathology Group                   
+757.0,GMA ,5433    ,Dr. Susanna Frost                       
+160.0,LAYA,33779   ,"Dr. Michael Murray,                     "
+669.0,ESB ,FIT52   ,Dr. Rosemary Fitzgerald                 
+102.0,GLO ,1178875 ,Dr K O`Sullivan                         
+144.0,ILH ,1237200 ,"Dr. S. A. A. Bokhari,                   "
+626.0,VHI ,6594    ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+304.0,GMA ,2312    ,"Prof. Cathal J. Kelly, MCh FRCSI FRCSI  "
+304.0,LAYA,34008   ,"Prof. Cathal J. Kelly, MCh FRCSI FRCSI  "
+309.0,LAYA,34152   ,"Mr. Arnold D. K. Hill, M.Ch., F.R.C.S.I."
+611.0,ILH ,1237199 ,Consultant Pathologists Group. Dundalk  
+701.0,VHI ,9636    ,Consultant Radiologists.(Tullamore)     
+722.0,ILH ,1303645 ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+802.0,VHI ,6677    ,Dr. Eoghan Mooney                       
+309.0,VHI ,6710    ,"Mr. Arnold D. K. Hill, M.Ch., F.R.C.S.I."
+232.0,POMA,2986    ,Consultant Anaesthetists Grp Mercy Hosp 
+270.0,GMA ,5293    ,SIVUH Anaesthesia Group                 
+687.0,GMA ,5831    ,Tallaght Histopathology Group           
+687.0,LAYA,55183   ,Tallaght Histopathology Group           
+757.0,LAYA,38635   ,Dr. Susanna Frost                       
+336.0,ILH ,1772882 ,"MR. ALFONSO ANTEQUERA, MD, PHD, FACS    "
+722.0,GLO ,1184671 ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+687.0,VHI ,13205   ,Tallaght Histopathology Group           
+155.0,GMA ,1128    ,D2 ANAESTHESIA MG                       
+102.0,GMA ,1218    ,"Dr Katrina O'Sullivan,                  "
+669.0,GLO ,1461494 ,Dr. Rosemary Fitzgerald                 
+336.0,GMA ,4910    ,"Mr. Alfonso Antequera MD,PhD,FACS       "
+687.0,ILH ,2518521 ,Tallaght Histopathology Group           
+102.0,LAYA,30176   ,"Dr Katrina O'Sullivan,                  "
+316.0,ESB ,QUIN14  ,"Dr Martin Quinn, Consultant Cardiologist"
+668.0,ILH ,1568949 ,"Dr. Susan FitzGerald, MB. MRCPI FRCPath."
+230.0,ILH ,1240552 ,"Dr JJ Magner,BEACON CHIEF OF ANAESTHESIA"
+232.0,VHI ,7074    ,Consultant Anaesthetists Grp Mercy Hosp 
+602.0,GMA ,1028    ,Consultant Pathologists Beaumont Hosp.  
+251.0,ESB ,GLY05   ,"Dr. Carla Glynn, MB,BCh,BaO,FRCA        "
+671.0,LAYA,37723   ,"Dr. Kirsten Schaffer, M.D., F.R.C.P.I.  "
+102.0,VHI ,2861    ,"Dr Katrina O'Sullivan,                  "
+267.0,VHI ,1091    ,Dr. Brendan Conroy                      
+602.0,LAYA,55009   ,Consultant Pathologists Beaumont Hosp   
+666.0,POMA,4296    ,Hermitage Histopathology Group          
+722.0,GMA ,4561    ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+207.0,VHI ,10042   ,Dr. Ola Petter Rosaeg MB BCh(NUI) FRCPC 
+722.0,LAYA,37655   ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+666.0,VHI ,12169   ,HERMITAGE HISTOPATHOLOGY GROUP          
+575.0,ILH ,2165912 ,"Dr Frank McGrath, Consultant Radiologist"
+343.0,LAYA,0000    ,MR. EADHBHARD MULLIGAN                  
+304.0,VHI ,5547    ,"Prof. Cathal J. Kelly, MCh FRCSI FRCSI  "
+230.0,ESB ,MAG08   ,"Dr JJ Magner,BEACON CHIEF OF ANAESTHESIA"
+543.0,ILH ,1240019 ,TALLAGHT RADIOLOGY GROUP                
+270.0,LAYA,55170   ,SIVUH Anaesthesia Group                 
+575.0,ESB ,MCG18   ,"Dr Frank McGrath, Consultant Radiologist"
+144.0,ESB ,BOK03   ,"Dr. S. A. A. Bokhari,                   "
+187.0,LAYA,30019   ,"Dr. Patrick Benson, FFARCSI, DABA.      "
+573.0,LAYA,55105   ,"DR.THORNTON, DR.BRENNAN & DR.O'HARE     "
+187.0,POMA,0855    ,"Dr. Patrick Benson, FFARCSI             "
+669.0,GMA ,5642    ,Dr. Rosemary Fitzgerald                 
+187.0,VHI ,4218    ,"Dr. Patrick Benson, FFARCSI, DABA.      "
+256.0,GMA ,5042    ,DR. NIALL FANNING                       
+144.0,GLO ,1194707 ,"Dr. S. A. A. Bokhari,                   "
+643.0,ILH ,665522  ,"Dr. Mary Keogan, BSc MD FRCPI FRCPath   "
+730.0,GLO ,1159240 ,Tralee Radiology Group                  
+730.0,GMA ,2844    ,Tralee Radiology Group                  
+270.0,POMA,3438    ,SIVUH Anaesthesia Group                 
+270.0,VHI ,12845   ,SIVUH Anaesthesia Group                 
+656.0,VHI ,8207    ,Consultant Pathologists Loughlinstown   
+248.0,VHI ,10191   ,DR. MOHAN MUGAWAR                       
+543.0,ESB ,RAD50   ,TALLAGHT RADIOLOGY GROUP                
+684.0,GMA ,5696    ,"Dr. Emer Caffrey,                       "
+575.0,GLO ,1184716 ,"Dr Frank McGrath, Consultant Radiologist"
+220.0,ILH ,1240785 ,"Dr. Joseph Lee, M.B.,M.S.,F.F.A.R.C.S.I."
+266.0,GLO ,1405921 ,Limerick Anaesthesia Group              
+343.0,VHI ,3779    ,MR. EADHBHARD MULLIGAN                  
+251.0,GLO ,1227054 ,Dr. Carla Glynn                         
+669.0,VHI ,13061   ,Dr. Rosemary Fitzgerald                 
+713.0,GMA ,4328    ,"Dr. Ailbhe Tarrant, Cons. Radiologist   "
+713.0,LAYA,37545   ,"Dr. Ailbhe Tarrant, Cons. Radiologist   "
+713.0,VHI ,11818   ,"Dr. Ailbhe Tarrant, Cons. Radiologist   "
+230.0,GMA ,3479    ,"Dr JJ Magner,BEACON CHIEF OF ANAESTHESIA"
+220.0,ESB ,LEE15   ,"Dr. Joseph Lee, M.B.,M.S.,F.F.A.R.C.S.I."
+730.0,LAYA,55123   ,Tralee Radiology Group                  
+148.0,ILH ,1034605 ,"Dr. Masud Awan, Consultant Anaesthetist "
+543.0,GLO ,1185959 ,TALLAGHT RADIOLOGY GROUP                
+236.0,POMA,3037    ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+175.0,VHI ,1564    ,"Dr. Robert Concannon,                   "
+148.0,ESB ,AWA01   ,"Dr. Masud Awan, Consultant Anaesthetist "
+671.0,VHI ,11746   ,"Dr. Kirsten Schaffer, M.D., F.R.C.P.I.  "
+266.0,GMA ,5484    ,Limerick Anaesthesia Group              
+266.0,LAYA,55174   ,Limerick Anaesthesia Group              
+230.0,LAYA,34519   ,"Dr JJ Magner,BEACON CHIEF OF ANAESTHESIA"
+238.0,ILH ,3515128 ,SG Anaesthesia Ltd.                     
+103.0,ESB ,GAR01   ,"Dr. James Gardiner,                     "
+103.0,GLO ,1204014 ,"Dr. James Gardiner,                     "
+230.0,VHI ,76      ,"Dr JJ Magner,BEACON CHIEF OF ANAESTHESIA"
+122.0,GLO ,1185374 ,"Dr. Brian Ferris, FFARCS.               "
+256.0,LAYA,38312   ,DR. NIALL FANNING                       
+256.0,VHI ,12624   ,DR. NIALL FANNING                       
+144.0,GMA ,1648    ,"Dr. S. A. A. Bokhari,                   "
+622.0,ESB ,PAT59   ,Consultant Pathologists Tallaght        
+122.0,GMA ,489     ,"Dr. Brian Ferris, FFARCS.               "
+337.0,ESB ,NAU03   ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+260.0,ILH ,2090054 ,DR. JJ MAGNER INCORPORATED              
+543.0,GMA ,2243    ,TALLAGHT RADIOLOGY GROUP                
+260.0,ESB ,MAG08   ,DR. JJ MAGNER INCORPORATED              
+155.0,LAYA,55061   ,D2 ANAESTHESIA MG                       
+684.0,LAYA,38870   ,"Dr. Emer Caffrey,                       "
+251.0,GMA ,3956    ,Dr. Carla Glynn                         
+684.0,POMA,4618    ,"Dr. Emer Caffrey,                       "
+684.0,VHI ,13097   ,Dr. Emer Caffrey                        
+144.0,LAYA,33988   ,"Dr. S. A. A. Bokhari,                   "
+564.0,ILH ,V02171  ,Consultant Radiologists.(Loughlinstown) 
+543.0,LAYA,55068   ,TALLAGHT RADIOLOGY GROUP                
+543.0,VHI ,9802    ,TALLAGHT RADIOLOGY GROUP                
+144.0,VHI ,5265    ,"Dr. S. A. A. Bokhari,                   "
+266.0,POMA,3319075O,Limerick Anaesthesia Group              
+155.0,POMA,3027    ,D2 ANAESTHESIA MG                       
+757.0,VHI ,13153   ,Dr. Susanna Frost                       
+155.0,VHI ,7168    ,D2 Anaesthesia MG                       
+622.0,GLO ,1185726 ,Consultant Pathologists Tallaght        
+220.0,GMA ,1219    ,"Dr. Joseph Lee, M.B.,M.S.,F.F.A.R.C.S.I."
+103.0,GMA ,295     ,"Dr. James Gardiner,                     "
+666.0,ILH ,1631221 ,HERMITAGE HISTOPATHOLOGY GROUP          
+547.0,ILH ,04549   ,"Dr. Michael G. Courtney, MB., FRCPI.    "
+339.0,VHI ,73      ,Dr. Michael De Buitléir M.D. F.A.C.C    
+622.0,GMA ,2539    ,Consultant Pathologists Tallaght        
+605.0,ILH ,1240328 ,Prof. Susan Kennedy.                    
+605.0,ESB ,KEN13   ,Prof. Susan Kennedy.                    
+643.0,GLO ,1243730 ,"Dr. Mary Keogan, BSc MD FRCPI FRCPath   "
+167.0,ILH ,1235061 ,"Dr. J. J. Magner, MB. BCh. BAO FCA RCSI."
+167.0,ESB ,000     ,"Dr. J. J. Magner, MB. BCh. BAO FCA RCSI."
+167.0,GMA ,3479    ,"Dr. J. J. Magner, MB. BCh. BAO FCA RCSI."
+167.0,LAYA,34519   ,"Dr. J. J. Magner, MB. BCh. BAO FCA RCSI."
+276.0,ILH ,1594685 ,SIVUH Anaesthesia Group                 
+122.0,LAYA,30066   ,"Dr. Brian Ferris, FFARCS.               "
+602.0,POMA,0611    ,Consultant Pathologists Beaumont        
+315.0,VHI ,80031   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+605.0,GLO ,1185534 ,Prof. Susan Kennedy.                    
+212.0,GMA ,3575    ,"Dr. Joseph F. Costello,MB, FCARCSI      "
+547.0,LAYA,33864   ,"Dr. Michael G. Courtney, MB., FRCPI.    "
+626.0,ILH ,1472013 ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+547.0,VHI ,2809    ,"Dr. Michael G. Courtney, MB., FRCPI.    "
+212.0,LAYA,35263   ,"Dr. Joseph F. Costello,MB, FCARCSI      "
+220.0,LAYA,30111   ,"Dr. Joseph Lee, M.B.,M.S.,F.F.A.R.C.S.I."
+265.0,ILH ,1808640 ,BEACON ICU GROUP                        
+265.0,ESB ,UPM01   ,BEACON ICU GROUP                        
+265.0,GLO ,1473048 ,Beacon ICU Group                        
+347.0,VHI ,80350   ,Mr. John Curran                         
+999.0,ILH ,B9898D98,*** TEST CONSULTANT **** FOR AVIV ONLY  
+999.0,LAYA,99875XYY,*** TEST CONSULTANT **** FOR QUIN ONLY  
+999.0,VHI ,12345678,*** Test Consultant **** FOR VHI ONLY   
+251.0,LAYA,36820   ,DR. CARLA GLYNN                         
+337.0,GLO ,1224402 ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+735.0,ILH ,1237751 ,"DR. EMER O'CONNELL, CONS. RADIOLOGIST.  "
+735.0,GMA ,0000    ,"Dr. Emer O'Connell, Cons. Radiologist.  "
+265.0,GMA ,5012    ,Beacon ICU Group                        
+122.0,VHI ,1881    ,"Dr. Brian Ferris, FFARCS.               "
+735.0,LAYA,36166   ,"Dr. Emer O'Connell, Cons. Radiologist.  "
+573.0,VHI ,9004    ,"DR.THORNTON, DR.BRENNAN & DR.O'HARE     "
+651.0,ESB ,HEA07   ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+651.0,GLO ,1189813 ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+651.0,GMA ,3664    ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+651.0,LAYA,36338   ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+581.0,ILH ,1240571 ,"Dr. S. Ryan, Consultant Radiologist.    "
+581.0,ESB ,RYA09   ,"Dr. S. Ryan, Consultant Radiologist.    "
+581.0,GLO ,1416588 ,"Dr. S. Ryan, Consultant Radiologist.    "
+637.0,ILH ,526115  ,"Dr. S. Knowles, Consultant Pathologist. "
+265.0,LAYA,55158   ,BEACON ICU GROUP                        
+264.0,ILH ,779968  ,DR. ANTHONY HENNESSY                    
+730.0,POMA,3317    ,Tralee Radiology Group                  
+264.0,GMA ,4117    ,DR. ANTHONY HENNESSY                    
+730.0,VHI ,9308    ,Tralee Radiology Group                  
+668.0,GMA ,4514    ,"Dr. Susan FitzGerald, MB. MRCPI FRCPath."
+637.0,ESB ,KNO01   ,"Dr. S. Knowles, Consultant Pathologist. "
+711.0,ILH ,VO6068  ,"Dr. E. Twomey, Consultant Radiologist.  "
+711.0,ESB ,TWO14   ,"DR. E. TWOMEY, CONSULTANT RADIOLOGIST.  "
+711.0,GLO ,1239077 ,"Dr. E. Twomey, Consultant Radi          "
+659.0,ILH ,970836  ,Dr Stephen Finn MB PhD FRCPath          
+337.0,GMA ,4702    ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+212.0,VHI ,3053    ,"Dr. Joseph F. Costello,MB, FCARCSI      "
+626.0,ESB ,MUR73   ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+342.0,ILH ,1704292 ,MR. MICHAEL ALEXANDER                   
+728.0,ILH ,1596165 ,DR SEAMUS LOOBY CONSULTANT RADIOLOGIST  
+637.0,GLO ,1249276 ,"Dr. S. Knowles, Consultant Pathologist. "
+337.0,LAYA,37900   ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+728.0,ESB ,LOO02   ,DR SEAMUS LOOBY CONSULTANT RADIOLOGIST  
+728.0,GLO ,1245561 ,"Dr. Seamus Looby,                       "
+585.0,ILH ,2164397 ,"Dr. Mark Logan, Consultant Radiologist. "
+337.0,VHI ,12235   ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+264.0,LAYA,37169   ,DR. ANTHONY HENNESSY                    
+668.0,LAYA,37037   ,"Dr. Susan FitzGerald, MB. MRCPI FRCPath."
+264.0,VHI ,11440   ,DR. ANTHONY HENNESSY                    
+668.0,VHI ,11656   ,"Dr. Susan FitzGerald, MB. MRCPI FRCPath."
+637.0,GMA ,3132    ,"Dr. S. Knowles, Consultant Pathologist. "
+637.0,LAYA,35422   ,"Dr. S. Knowles, Consultant Pathologist. "
+643.0,GMA ,3871    ,"Dr. Mary Keogan, BSc MD FRCPI FRCPath   "
+570.0,VHI ,9007    ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+643.0,LAYA,34311   ,"Dr. Mary Keogan, BSc MD FRCPI FRCPath   "
+757.0,ESB ,FR005   ,Dr. Susanna Frost                       
+611.0,ESB ,PAT56   ,Consultant Pathologists Group. Dundalk  
+605.0,GMA ,1609    ,Prof. Susan Kennedy.                    
+741.0,ILH ,2200169 ,Mr. Darren Lui                          
+728.0,VHI ,12080   ,DR SEAMUS LOOBY CONSULTANT RADIOLOGIST  
+266.0,VHI ,12952   ,Limerick Anaesthesia Group              
+242.0,ESB ,505212B ,"Dr. Valerie Pollard M.B, F.F.A.R.C.S.I  "
+242.0,GLO ,1206426 ,"Dr. Valerie Pollard M.B, F.F.A          "
+634.0,ILH ,1237542 ,Consultant Pathologists (Rotunda)       
+634.0,ESB ,PAT11   ,Consultant Pathologists (Rotunda)       
+809.0,ILH ,2492458 ,Dublin Pathology Group                  
+809.0,ESB ,DUB02   ,Dublin Pathology Group                  
+611.0,GLO ,1269992 ,Consultant Pathologists Group.          
+626.0,GLO ,1184837 ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+242.0,GMA ,0       ,"Dr. Valerie Pollard M.B, F.F.A          "
+581.0,GMA ,2029    ,"Dr. S. Ryan, Consultant Radiologist.    "
+812.0,VHI ,13281   ,Beacon Blood Sciences Partnership       
+575.0,GMA ,5143    ,"Dr Frank McGrath, Consultant Radiologist"
+575.0,LAYA,31279   ,"Dr Frank McGrath, Consultant Radiologist"
+634.0,GLO ,1185752 ,Consultant Pathologists (Rotunda)       
+611.0,GMA ,3067    ,Consultant Pathologists Group. Dundalk  
+611.0,LAYA,55067   ,Consultant Pathologists Group. Dundalk  
+342.0,ESB ,ALE02   ,MR. MICHAEL ALEXANDER                   
+668.0,GLO ,1185566 ,"Dr. Susan FitzGerald, MB. MRCPI FRCPath."
+342.0,GMA ,5460    ,MR. MICHAEL ALEXANDER                   
+634.0,GMA ,778     ,Consultant Pathologists (Rotunda)       
+585.0,ESB ,LOG09   ,"Dr. Mark Logan, Consultant Radiologist. "
+634.0,VHI ,8203    ,Consultant Pathologists (Rotunda)       
+611.0,VHI ,8506    ,Consultant Pathologists Group. Dundalk  
+216.0,GMA ,4572    ,PAIN INTERVENTIONAL THERAPY CORK        
+216.0,LAYA,39305   ,PAIN INTERVENTIONAL THERAPY CORK        
+716.0,GMA ,4429    ,"Dr. Christine Jennings, M.D.            "
+807.0,ESB ,EXP02   ,Expert Histopathology Group             
+807.0,GLO ,1475208 ,Expert Histopathology Group             
+216.0,POMA,2503    ,PAIN INTERVENTIONAL THERAPY CORK        
+807.0,GMA ,5731    ,Expert Histopathology Group             
+605.0,LAYA,55053   ,Prof. Susan Kennedy.                    
+242.0,LAYA,33996   ,"Dr. Valerie Pollard M.B, F.F.A.R.C.S.I  "
+809.0,GLO ,1497218 ,Dublin Pathology Group                  
+260.0,VHI ,80075   ,DR. JJ MAGNER INCORPORATED              
+316.0,GLO ,1222232 ,"Dr Martin Quinn, Consultant Cardiologist"
+316.0,GMA ,3242    ,"Dr Martin Quinn, Consultant Cardiologist"
+316.0,LAYA,35161   ,"Dr Martin Quinn, Consultant Cardiologist"
+622.0,LAYA,55097   ,Consultant Pathologists Tallaght        
+809.0,GMA ,5842    ,Dublin Pathology Group                  
+732.0,ESB ,HSD01   ,HF DIAGNOSTICS                          
+732.0,GLO ,1157979 ,HF Diagnostics                          
+732.0,GMA ,5269    ,HF Diagnostics                          
+732.0,LAYA,55159   ,HF DIAGNOSTICS                          
+732.0,VHI ,9610    ,HF DIAGNOSTICS                          
+626.0,GMA ,2519    ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+809.0,LAYA,55181   ,Dublin Pathology Group                  
+810.0,ESB ,BLO01   ,Blood Sciences Partnership              
+807.0,VHI ,13089   ,Expert Histopathology Group             
+348.0,VHI ,1518    ,Mr. Joe Sparkes                         
+348.0,LAYA,35451   ,Mr. Joe Sparkes                         
+348.0,ILH ,2102882 ,Mr. Joe Sparkes                         
+348.0,GMA ,5197    ,Mr. Joe Sparkes                         
+348.0,GLO ,1160199 ,Mr. Joe Sparkes                         
+348.0,ESB ,JSO01   ,Mr. Joe Sparkes                         
+278.0,ILH ,2526738 ,Dr. Gráinne Mc Dermott                  
+278.0,LAYA,39057   ,Dr. Gráinne Mc Dermott                  
+278.0,GLO ,1516534 ,Dr. Gráinne Mc Dermott                  
+278.0,GMA ,5859    ,Dr. Gráinne Mc Dermott                  
+278.0,ESB ,MCD44   ,Dr. Gráinne Mc Dermott                  
+816.0,VHI ,80255   ,Beech Medical Practice Ltd.             
+636.0,VHI ,6569    ,"Dr. Gerard Boran, Consultant Pathologist"
+636.0,LAYA,34330   ,"Dr. Gerard Boran, Consultant Pathologist"
+636.0,ILH ,2535240 ,"Dr. Gerard Boran, Consultant Pathologist"
+636.0,GMA ,5879    ,"Dr. Gerard Boran, Consultant Pathologist"
+636.0,GLO ,1184769 ,"Dr. Gerard Boran, Consultant Pathologist"
+278.0,VHI ,13229   ,Dr. Gráinne Mc Dermott                  
+811.0,LAYA,55185   ,Blackthorn Pathology Partners           
+811.0,ESB ,BLA15   ,Blackthorn Pathology Partners           
+811.0,GLO ,1523041 ,Blackthorn Pathology Partners           
+811.0,ILH ,2537094 ,Blackthorn Pathology Partners           
+811.0,GMA ,5883    ,Blackthorn Pathology Partners           
+243.0,LAYA,39096   ,Dr. Alan Broderick                      
+811.0,VHI ,13241   ,Blackthorn Pathology Partners           
+243.0,GMA ,5898    ,Dr. Alan Broderick                      
+243.0,GLO ,1527041 ,Dr. Alan Broderick                      
+812.0,ESB ,BEA09   ,Beacon Blood Sciences Partnership       
+812.0,ILH ,2552848 ,Beacon Blood Sciences Partnership       
+812.0,GMA ,5923    ,Beacon Blood Sciences Partnership       
+243.0,VHI ,13252   ,Dr. Alan Broderick                      
+725.0,GMA ,5964    ,"Dr. Jennifer Kerr, Cons. Radiologist.   "
+812.0,POMA,4740    ,Beacon Blood Sciences Partnership       
+658.0,ILH ,816245  ,"Dr. Jerome Fennell, Cons. Microbiologist"
+658.0,LAYA,37199   ,"Dr. Jerome Fennell, Cons. Microbiologist"
+658.0,GLO ,1185310 ,"Dr. Jerome Fennell, Cons. Microbiologist"
+658.0,VHI ,11494   ,"Dr. Jerome Fennell, Cons. Microbiologist"
+262.0,ESB ,ANA11   ,D2 Anaesthesia HG                       
+262.0,GLO ,1186064 ,D2 Anaesthesia HG                       
+262.0,POMA,3027    ,D2 Anaesthesia HG                       
+243.0,ESB ,ANA16   ,Dr. Alan Broderick                      
+725.0,GLO ,1184672 ,"Dr. Jennifer Kerr, Cons. Radiologist.   "
+817.0,GLO ,1542199 ,Dr. Andrew McGrath                      
+817.0,GMA ,6014    ,Dr. Andrew McGrath                      
+817.0,LAYA,39219   ,Dr. Andrew McGrath                      
+818.0,GLO ,1547328 ,Dr. Sarah Power Con.Neuroradiologist    
+818.0,LAYA,39258   ,Dr. Sarah Power Con. Neuradiologist     
+818.0,GMA ,6050    ,Dr. Sarah Power                         
+817.0,VHI ,13386   ,Dr. Andrew McGrath                      
+820.0,ILH ,1472013 ,Professor Philip Murphy                 
+820.0,ESB ,MUR147  ,Professor Philip Murphy                 
+820.0,GLO ,1184837 ,Professor Philip Murphy                 
+820.0,GMA ,6311    ,Professor Philip Murphy                 
+820.0,LAYA,33956   ,Professor Philip Murphy                 
+820.0,VHI ,80618   ,Professor Philip Murphy                 
+821.0,ILH ,1472013 ,Professor Philip Murphy                 
+821.0,ESB ,MUR147  ,Professor Philip Murphy                 
+821.0,GLO ,1184837 ,Professor Philip Murphy                 
+821.0,GMA ,6311    ,Professor Philip Murphy                 
+821.0,LAYA,33956   ,Professor Philip Murphy                 
+821.0,VHI ,80618   ,Professor Philip Murphy                 
+739.0,GLO ,1312522 ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+739.0,ESB ,MON08   ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+813.0,VHI ,        ,Dr. Niamh Leonard                       
+214.0,VHI ,12845   ,South Infirmary Anaesthetist Group      
+817.0,ESB ,MCG61   ,Dr. Andrew McGrath                      
+817.0,ILH ,2691462 ,Dr. Andrew McGrath                      
+346.0,GLO ,1182497 ,Prof. Peter J Conlon                    
+347.0,ILH ,2751179 ,Mr. John Curran                         
+347.0,GLO ,1551257 ,Mr. John Curran                         
+347.0,LAYA,39343   ,Mr. John Curran                         
+236.0,ESB ,GOL03   ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+822.0,LAYA,35442   ,Professor John Flynn                    
+822.0,VHI ,494     ,Professor John Flynn                    
+822.0,ILH ,554091  ,Professor John Flynn                    
+816.0,GMA ,5353    ,Beech Medical Practice Ltd.             
+823.0,GMA ,6192    ,Dr. Anna-Rose Prior                     
+823.0,GLO ,1552838 ,Dr. Anna-Rose Prior                     
+823.0,ESB ,PRI03   ,Dr. Anna-Rose Prior                     
+823.0,LAYA,39398   ,Dr. Anna-Rose Prior                     
+824.0,VHI ,2233    ,Professor David Keane                   
+824.0,ILH ,1593316 ,Professor David Keane                   
+824.0,LAYA,35205   ,Professor David Keane                   
+824.0,GMA ,2923    ,Professor David Keane                   
+824.0,GLO ,1226542 ,Professor David Keane                   
+823.0,ILH ,2813528 ,Dr. Anna-Rose Prior                     
+823.0,VHI ,13541   ,Dr. Anna-Rose Prior                     
+826.0,VHI ,13250   ,Dr. Claire O'Driscoll                   
+826.0,LAYA,39021   ,Dr. Claire O'Driscoll                   
+826.0,ILH ,2537575 ,Dr. Claire O'Driscoll                   
+826.0,GMA ,5885    ,Dr. Claire O'Driscoll                   
+826.0,GLO ,1524228 ,Dr. Claire O'Driscoll                   
+826.0,ESB ,ODR09   ,Dr. Claire O'Driscoll                   
+822.0,GLO ,1185505 ,Professor John Flynn                    
+827.0,VHI ,492     ,Dr. Malcolm Little                      
+827.0,LAYA,33750   ,Dr. Malcolm Little                      
+827.0,GMA ,3453    ,Dr. Malcolm Little                      
+827.0,ILH ,1240560 ,Dr. Malcolm Little                      
+822.0,ESB ,FLY13   ,Professor John Flynn                    
+822.0,GMA ,B5580889,Professor John Flynn                    
+318.0,GLO ,1475383 ,Prof Elizabeth Connolly MB BCH BAO FRCSI
+828.0,VHI ,4166    ,Professor Eugene Connolly               
+828.0,LAYA,36621   ,Professor Eugene Connolly               
+828.0,ILH ,1240657 ,Professor Eugene Connolly               
+828.0,GMA ,4094    ,Professor Eugene Connolly               
+828.0,GLO ,1182807 ,Professor Eugene Connolly               
+828.0,ESB ,CON96   ,Professor Eugene Connolly               
+829.0,VHI ,12398   ,Dr. Janusz Krawczyk                     
+829.0,LAYA,38130   ,Dr. Janusz Krawczyk                     
+829.0,ILH ,1817826 ,Dr. Janusz Krawczyk                     
+829.0,GMA ,5123    ,Dr. Janusz Krawczyk                     
+829.0,GLO ,1181468 ,Dr. Janusz Krawczyk                     
+829.0,ESB ,KRA01   ,Dr. Janusz Krawczyk                     
+830.0,VHI ,10971   ,Dr. Amjad Hayat                         
+830.0,LAYA,36654   ,Dr. Amjad Hayat                         
+830.0,ILH ,IL575114,Dr. Amjad Hayat                         
+830.0,GMA ,4415    ,Dr. Amjad Hayat                         
+830.0,ESB ,HAY19   ,Dr. Amjad Hayat                         
+830.0,GLO ,1182065 ,Dr. Amjad Hayat                         
+816.0,GLO ,1554580 ,Beech Medical Practice Ltd.             
+831.0,LAYA,39452   ,Dr. Jane Cunningham                     
+831.0,GMA ,6250    ,Dr. Jane Cunningham                     
+727.0,GLO ,1184616 ,Dr. Niamh Hambly MBBCHBAO MRCPI FFRRCSI 
+183.0,GLO ,1554689 ,Professor John Laffey                   
+824.0,ESB ,KEA33   ,Professor David Keane                   
+281.0,LAYA,39415   ,Dr. Anca Grigoras                       
+281.0,ESB ,GRI19   ,Dr. Anca Grigoras                       
+281.0,ILH ,2821517 ,Dr. Anca Grigoras                       
+281.0,GLO ,1553535 ,Dr. Anca Grigoras                       
+281.0,GMA ,6209    ,Dr. Anca Grigoras                       
+282.0,VHI ,13228   ,Dr. Siaghal Mac Colgáin                 
+282.0,LAYA,39063   ,Dr. Siaghal Mac Colgáin                 
+282.0,GMA ,5825    ,Dr. Siaghal Mac Colgáin                 
+282.0,GLO ,1505461 ,Dr. Siaghal Mac Colgáin                 
+282.0,ESB ,MAC44   ,Dr. Siaghal Mac Colgáin                 
+688.0,ILH ,2436067 ,Dr. Emer Caffrey                        
+688.0,ESB ,CAF01   ,Dr. Emer Caffrey                        
+688.0,GLO ,1470164 ,Dr. Emer Caffrey                        
+688.0,GMA ,5696    ,Dr. Emer Caffrey                        
+688.0,LAYA,38870   ,Dr. Emer Caffrey                        
+688.0,POMA,4618    ,Dr. Emer Caffrey                        
+688.0,VHI ,13097   ,Dr. Emer Caffrey                        
+282.0,ILH ,2528579 ,Dr. Siaghal Mac Colgáin                 
+740.0,GLO ,1243730 ,"DR. MARY KEOGAN, BSC MD FRCPI FRCPATH   "
+736.0,GMA ,6020    ,"NI MHUIRCHEARTAIGH, NEASA               "
+831.0,ILH ,2894859 ,Dr. Jane Cunningham                     
+832.0,ILH ,2537575 ,Dr. Claire O'Driscoll                   
+832.0,ESB ,DR09    ,Dr. Claire O'Driscoll                   
+832.0,GLO ,1524228 ,Dr. Claire O'Driscoll                   
+832.0,GMA ,5885    ,Dr. Claire O'Driscoll                   
+832.0,LAYA,39021   ,Dr. Claire O'Driscoll                   
+832.0,VHI ,13250   ,Dr. Claire O'Driscoll                   
+342.0,GLO ,1361723 ,MR. MICHAEL ALEXANDER                   
+838.0,LAYA,39490   ,Dr. Sinead McDermott                    
+838.0,ILH ,2911538 ,Dr. Sinead McDermott                    
+838.0,GMA ,6293    ,Dr. Sinead McDermott                    
+838.0,GLO ,1555112 ,Dr. Sinead McDermott                    
+838.0,VHI ,13614   ,Dr. Sinead McDermott                    
+845.0,GLO ,155588  ,Dr. Gabrielle Colleran                  
+845.0,ESB ,COR40   ,Dr. Gabrielle Colleran                  
+845.0,GMA ,6318    ,Dr. Gabrielle Colleran                  
+846.0,VHI ,13541   ,Dr. Anna-Rose Prior                     
+846.0,LAYA,39398   ,Dr. Anna-Rose Prior                     
+846.0,GMA ,6192    ,Dr. Anna-Rose Prior                     
+846.0,GLO ,1552838 ,Dr. Anna-Rose Prior                     
+846.0,ESB ,PRI03   ,Dr. Anna-Rose Prior                     
+846.0,ILH ,2813528 ,Dr. Anna-Rose Prior                     
+845.0,ILH ,2972007 ,Dr. Gabrielle Colleran                  
+826.0,POMA,4766    ,Dr. Claire O'Driscoll                   
+845.0,LAYA,39519   ,Dr. Gabrielle Colleran                  
+828.0,POMA,4992    ,Professor Eugene Connolly               
+281.0,VHI ,12985   ,Dr. Anca Grigoras                       
+827.0,POMA,2482    ,Dr. Malcolm Little                      
+827.0,ESB ,LIT02   ,Dr. Malcolm Little                      
+342.0,POMA,5015    ,MR. MICHAEL ALEXANDER                   
+833.0,VHI ,10199   ,Dr. Stephanie Curran                    
+833.0,LAYA,35823   ,Dr. Stephanie Curran                    
+833.0,ILH ,1237512 ,Dr Stephanie Curran                     
+833.0,GMA ,5894    ,Dr. Stephanie Curran                    
+833.0,GLO ,1183650 ,Dr. Stephanie Curran                    
+833.0,ESB ,CUR30   ,Dr. Stephanie Curran                    
+834.0,VHI ,626     ,Dr. Dermot Murnane                      
+834.0,LAYA,35623   ,Dr. Dermot Murnane                      
+834.0,ILH ,1235549 ,Dr. Dermot Murnane                      
+834.0,GMA ,3298    ,Dr. Dermot Murnane                      
+834.0,GLO ,1183569 ,Dr. Dermot Murnane                      
+834.0,ESB ,MUR90   ,Dr. Dermot Murnane                      
+827.0,GLO ,1549374 ,Dr. Malcolm Little                      
+283.0,ESB ,SMI17   ,Dr. Steven Smith                        
+283.0,LAYA,39602   ,Dr. Steven Smith                        
+283.0,GMA ,6388    ,Dr. Steven Smith                        
+838.0,ESB ,MCD47   ,Dr. Sinead McDermott                    
+283.0,ILH ,3050481 ,Dr. Steven Smith                        
+283.0,VHI ,13728   ,Dr. Steven Smith                        
+791.0,VHI ,12345   ,TUH Microbiology Group                  
+840.0,GMA ,6424    ,Dr. Ruth Dunne                          
+840.0,ILH ,3058430 ,Dr. Ruth Dunne                          
+847.0,POMA,4902    ,Dr. Susanne Schneider                   
+847.0,LAYA,39403   ,Dr. Susanne Schneider                   
+847.0,ESB ,SCH06   ,Dr. Susanne Schneider                   
+847.0,ILH ,2816566 ,Dr. Susanne Schneider                   
+847.0,VHI ,13546   ,Dr. Susanne Schneider                   
+736.0,POMA,5073    ,"Ni MHUIRCHEARTAIGH, NEASA               "
+855.0,ESB ,OR171   ,Dr. Aisling O'Riordan                   
+855.0,GMA ,6091    ,Dr. Aisling O'Riordan                   
+855.0,ILH ,2631595 ,Dr. Aisling O'Riordan                   
+855.0,LAYA,39260   ,Dr. Aisling O'Riordan                   
+855.0,VHI ,10127   ,Dr. Aisling O'Riordan                   
+119.0,ESB ,BRO48   ,Brookhill Medical Limited               
+119.0,GMA ,6479    ,Brookhill Medical Limited               
+119.0,LAYA,39677   ,Brookhill Medical Limited               
+119.0,VHI ,80456   ,Brookhill Medical Limited               
+119.0,ILH ,3585911 ,Brookhill Medical Limited               
+349.0,VHI ,13762   ,Dr. Constantin Ovidiu Suciu             
+349.0,GMA ,6449    ,Dr. Constantin Ovidiu Suciu             
+349.0,LAYA,39643   ,Dr. Constantin Ovidiu Suciu             
+349.0,ILH ,3069167 ,Dr. Constantin Ovidiu Suciu             
+349.0,ESB ,SUC02   ,Dr. Constantin Ovidiu Suciu             
+835.0,VHI ,10705   ,Dr. John Coyne                          
+835.0,LAYA,36393   ,Dr. John Coyne                          
+835.0,ILH ,670737  ,Dr. John Coyne                          
+835.0,GMA ,3696    ,Dr. John Coyne                          
+835.0,ESB ,COY06   ,Dr. John Coyne                          
+353.0,GMA ,6528    ,Professor Peter Neary                   
+353.0,ESB ,NEA05   ,Professor Peter Neary                   
+840.0,LAYA,39627   ,Dr. Ruth Dunne                          
+353.0,LAYA,39750   ,Professor Peter Neary                   
+354.0,VHI ,10174   ,Professor Paul Neary                    
+353.0,ILH ,3141340 ,Professor Peter Neary                   
+354.0,LAYA,35709   ,Professor Paul Neary                    
+354.0,ILH ,1778704 ,Professor Paul Neary                    
+354.0,GMA ,3239    ,Professor Paul Neary                    
+354.0,POMA,2489    ,Professor Paul Neary                    
+354.0,ESB ,NEA03   ,Professor Paul Neary                    
+873.0,ILH ,3140261 ,Dr. Liam Smyth                          
+873.0,LAYA,39732   ,Dr. Liam Smyth                          
+873.0,VHI ,13852   ,Dr. Liam Smyth                          
+873.0,ESB ,SMY13   ,Dr. Liam Smyth                          
+873.0,GMA ,6532    ,Dr. Liam Smyth                          
+956.0,VHI ,9876543 ,Dr Claimform Demo                       
+368.0,ESB ,DOY23   ,Doyle Cardiac Care Unlimited Company    
+368.0,ILH ,3230350 ,Doyle Cardiac Care Unlimited Company    
+368.0,GMA ,6640    ,Doyle Cardiac Care Unlimited Company    
+368.0,LAYA,70076   ,Doyle Cardiac Care Unlimited Company    
+841.0,VHI ,13873   ,Dr. Sebastian McWilliams                
+841.0,LAYA,39744   ,Dr. Sebastian McWilliams                
+841.0,GMA ,6535    ,Dr. Sebastian McWilliams                
+841.0,ESB ,MCW03   ,Dr. Sebastian McWilliams                
+841.0,ILH ,3135446 ,Dr. Sebastian McWilliams                
+368.0,VHI ,80523   ,Doyle Cariac Care Unlimited Company     
+836.0,ILH ,3236003 ,Janusz Krawczyk Consultancy Limited     
+318.0,GMA ,3920    ,Prof Elizabeth Connolly MB BCH BAO FRCSI
+318.0,ILH ,593849  ,Prof Elizabeth Connolly MB BCH BAO FRCSI
+318.0,LAYA,36752   ,Prof Elizabeth Connolly MB BCH BAO FRCSI
+318.0,VHI ,11032   ,Prof Elizabeth Connolly MB BCH BAO FRCSI
+250.0,POMA,5277    ,COMFORT IN PAIN LTD                     
+844.0,GMA ,6530    ,Dr. Laura Ryan                          
+844.0,ESB ,RYA48   ,Dr. Laura Ryan                          
+844.0,ILH ,3122874 ,Dr. Laura Ryan                          
+844.0,VHI ,14003   ,Dr. Laura Ryan                          
+284.0,VHI ,80477   ,Dr James O'Leary Cons.Anaesthetist      
+844.0,LAYA,39729   ,Dr. Laura Ryan                          
+284.0,LAYA,39708   ,Dr James O'Leary Cons. Anaesthetist     
+284.0,ILH ,3100851 ,Dr James O'Leary Cons. Anaesthetist     
+284.0,GMA ,6513    ,Dr James O'Leary Cons. Anaesthetist     
+284.0,ESB ,OLE20   ,Dr James O'Leary Cons. Anaesthetist     
+285.0,VHI ,80555   ,Peter Lee / Laoi Anaesthesiology Ltd    
+285.0,LAYA,70127   ,Peter Lee / Laoi Anaesthesiology Ltd    
+285.0,ILH ,3255251 ,Peter Lee / Laoi Anaesthesiology Ltd    
+285.0,GMA ,6723    ,Peter Lee / Laoi Anaesthesiology Ltd    
+285.0,ESB ,LAO02   ,Peter Lee / Laoi Anaesthesiology Ltd    
+286.0,VHI ,80086   ,"Dr John Owens, Consultant Anaesthetist  "
+286.0,LAYA,33682   ,"Dr John Owens, Consultant Anaesthetist  "
+286.0,ILH ,2184081 ,"Dr John Owens, Consultant Anaesthetist  "
+286.0,GMA ,5389    ,"Dr John Owens, Consultant Anaesthetist  "
+286.0,ESB ,OWE08   ,"Dr John Owens, Consultant Anaesthetist  "
+289.0,VHI ,12199   ,Dr. James O'Driscoll                    
+289.0,LAYA,37702   ,Dr. James O'Driscoll                    
+289.0,ILH ,1652562 ,Dr. James O'Driscoll                    
+289.0,GMA ,4689    ,Dr. James O'Driscoll                    
+289.0,ESB ,ODR06   ,Dr. James O'Driscoll                    
+287.0,VHI ,11403   ,Dr Nollag O'Rourke                      
+287.0,LAYA,37141   ,Dr. Nollag O'Rourke                     
+287.0,ILH ,1676678 ,Dr. Nollag O'Rourke                     
+287.0,GMA ,5279    ,Dr. Nollag O'Rourke                     
+287.0,ESB ,ORO11   ,Dr. Nollag O'Rourke                     
+290.0,VHI ,80121   ,Dr. Denise McCarthy                     
+290.0,LAYA,38200   ,Dr. Denise McCarthy                     
+290.0,GMA ,5505    ,Dr. Denise McCarthy                     
+290.0,ILH ,2269111 ,Dr. Denise McCarthy                     
+353.0,VHI ,14163   ,Professor Peter Neary                   
+290.0,ESB ,MCC96   ,Dr. Denise McCarthy                     
+317.0,POMA,3012    ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+291.0,VHI ,80241   ,"Dr. Mona Mubarak, Cons Anaesthetist     "
+291.0,LAYA,38963   ,"Dr. Mona Mubarak, Cons Anaesthetist     "
+291.0,ILH ,2504356 ,"Dr. Mona Mubarak, Cons Anaesthetist     "
+291.0,GMA ,5820    ,"Dr. Mona Mubarak, Cons Anaesthetist     "
+291.0,ESB ,MUB01   ,"Dr. Mona Mubarak, Cons Anaesthetist     "
+742.0,VHI ,13408   ,Rian Diagnostics Ltd                    
+742.0,LAYA,70470   ,Rian Diagnostics Ltd                    
+742.0,ILH ,3558487 ,Rian Diagnostics Ltd                    
+742.0,ESB ,RIA01   ,Rian Diagnostics Ltd                    
+292.0,VHI ,12749   ,Mater Private Anaesthetist Group        
+742.0,GMA ,7009    ,Rian Diagnostics Ltd                    
+292.0,LAYA,55168   ,Mater Private Anaesthetist Group        
+292.0,ILH ,2092906 ,Mater Private Anaesthetist Group        
+292.0,POMA,4422    ,Mater Private Anaesthetist Group        
+292.0,ESB ,MAT10   ,Mater Private Anaesthetist Group        
+284.0,POMA,5115    ,Dr James O'Leary Cons. Anaesthetist     
+292.0,GMA ,5162    ,Mater Private Anaesthetist Group        
+657.0,ESB ,GIL12   ,Dr. Anne Gilleece                       
+722.0,ESB ,KEE14   ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+855.0,POMA,5682    ,Dr Aisling O'Riordan                    
+299.0,ESB ,MUL68   ,Dr. Daniel Mullane                      
+689.0,ESB ,BEA11   ,Beaumont Microbiology Group             
+690.0,ESB ,NOR09   ,Northside Histopathology Group          
+689.0,GMA ,7147    ,Beaumont Microbiology Group             
+299.0,GMA ,2084    ,Dr. Daniel Mullane                      
+299.0,VHI ,5786    ,Dr. Daniel Mullane                      
+690.0,GMA ,7159    ,Northside Histopathology Group          
+299.0,LAYA,33630   ,Dr. Daniel Mullane                      
+355.0,VHI ,80217   ,Dr. Osama Al Sahaf                      
+355.0,LAYA,71209   ,Mr. Osama Al Sahaf                      
+355.0,ILH ,2184764 ,Dr. Osama Al Sahaf                      
+355.0,GMA ,7741    ,Mr. Osama Al Sahaf                      
+355.0,ESB ,SAH02   ,Dr. Osama Al Sahaf                      
+299.0,POMA,5782    ,Dr. Daniel Mullane                      
+692.0,ESB ,BEA13   ,Beaumont Neuropathology Group           
+837.0,ESB ,LIZ01   ,"Dr. Claudio Lizarralde, CL Histo Ltd    "
+837.0,GMA ,7184    ,"Dr. Claudio Lizarralde, CL Histo Ltd    "
+299.0,ILH ,1240863 ,Dr. Daniel Mullane                      
+268.0,VHI ,14034   ,Dr. Ihsan Butt                          
+268.0,LAYA,70137   ,Dr. Ihsan Butt                          
+268.0,ILH ,3286312 ,Dr. Ihsan Butt                          
+268.0,GMA ,6734    ,Dr. Ihsan Butt                          
+268.0,ESB ,0       ,Dr. Ihsan Butt                          
+692.0,LAYA,55214   ,Beaumont Neuropathology Group           
+837.0,LAYA,70588   ,"Dr. Claudio Lizarralde, CL Histo Ltd    "
+837.0,ILH ,3621279 ,"Dr. Claudio Lizarralde, CL Histo Ltd    "
+695.0,LAYA,70595   ,Dr. Brendan Doyle                       
+692.0,GMA ,7178    ,Beaumont Neuropathology Group           
+695.0,ESB ,DOY24   ,Dr. Brendan Doyle                       
+101.0,VHSE,1074    ,"Dr. D. Molyneux,                        "
+721.0,VHSE,5105    ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+602.0,VHSE,8155    ,Consultant Pathologists Beaumont Hosp   
+105.0,VHSE,0091    ,"Dr. E. Gallagher,                       "
+160.0,VHSE,5751    ,"Dr. Michael Murray,                     "
+588.0,VHSE,3357    ,"Dr. John O'Callaghan, Cons. Radiologist."
+115.0,VHSE,3365    ,"Dr. John Walsh,                         "
+241.0,VHSE,11618   ,Dr. L. Crowley.                         
+716.0,VHSE,11721   ,"Dr. Christine Jennings, M.D.            "
+580.0,VHSE,9331    ,Naas Radiology Group.                   
+131.0,VHSE,4369    ,"Dr. Kevin Clarkson,                     "
+217.0,VHSE,10395   ,"Dr. James O'Brien,                      "
+651.0,VHSE,10656   ,"Dr. Vourneen Healy, MB Bch BAO FRCPath. "
+216.0,VHSE,171     ,PAIN INTERVENTIONAL THERAPY CORK        
+165.0,VHSE,6507    ,"Dr. S. L. Tariq,                        "
+168.0,VHSE,0951    ,                                        
+183.0,VHSE,6316    ,Professor John Laffey                   
+317.0,VHSE,11028   ,"Mr. Daragh Moneley, Vascular Surgeon.   "
+585.0,VHSE,80046   ,"Dr. Mark Logan, Consultant Radiologist. "
+643.0,VHSE,844     ,"Dr. Mary Keogan, BSc MD FRCPI FRCPath   "
+176.0,VHSE,0993    ,"Dr. M. O'Shea,                          "
+178.0,VHSE,0430    ,                                        
+179.0,VHSE,6523    ,"Dr. Deirdre M. Grady,                   "
+180.0,VHSE,0784    ,                                        
+235.0,VHSE,11440   ,Dr. Anthony Hennessy MB BCL BAO FCARCSI.
+184.0,VHSE,0946    ,                                        
+752.0,VHSE,10709   ,Dr. Sean Curran FFR RCSI                
+186.0,VHSE,6755    ,                                        
+667.0,VHSE,12006   ,"Dr. Deirdre O'Brien, M.D. FRCPath.      "
+191.0,VHSE,6230    ,"Dr. Thomas Ryan, Consultant Anaesthetist"
+192.0,VHSE,0827    ,"Dr. Judith Connolly, MRCPI, FFARCSI.    "
+220.0,VHSE,4423    ,"Dr. Joseph Lee, M.B.,M.S.,F.F.A.R.C.S.I."
+196.0,VHSE,6392    ,"Dr. Fergal Day,                         "
+198.0,VHSE,4413    ,                                        
+199.0,VHSE,2935    ,"Dr. Rachel O'Farrell,                   "
+200.0,VHSE,6593    ,                                        
+201.0,VHSE,1844    ,                                        
+202.0,VHSE,3541    ,                                        
+205.0,VHSE,10004   ,                                        
+711.0,VHSE,3721    ,"Dr. E. Twomey, Consultant Radiologist.  "
+161.0,VHSE,3076    ,"Dr. Enda Shanahan,                      "
+209.0,VHSE,5679    ,"Dr. Sallyann Colbert,                   "
+211.0,VHSE,4689    ,"Dr. David Mannion,                      "
+259.0,VHSE,12686   ,"DR. ELANKATHAIR TAMILMANI,              "
+213.0,VHSE,10413   ,"Dr. Chris H. Maharaj,                   "
+215.0,VHSE,10555   ,"Dr. Scholtz Marais, FCA (SA)            "
+571.0,VHSE,9005    ,Consultant Radiologists (Connolly Hosp) 
+342.0,VHSE,12248   ,MR. MICHAEL ALEXANDER                   
+218.0,VHSE,2663    ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+140.0,VHSE,3449    ,"Dr. Matthew G. Browne, FFARCSI.         "
+720.0,VHSE,11077   ,"Dr. C. Cantwell, M.D.                   "
+223.0,VHSE,10846   ,"Dr. Oleg Ilyinski, FCARCSI, DPMCA, EDA  "
+227.0,VHSE,6136    ,                                        
+228.0,VHSE,4197    ,"Dr. Eugene O'Kelly, Old Accounts        "
+229.0,VHSE,4197    ,"Dr. Eugene O'Kelly, Old Accounts 2      "
+231.0,VHSE,0167    ,"Dr. Pauline Whyte, MB BCh BAO FFARCSI   "
+233.0,VHSE,11249   ,"Dr. Brian O'Donnell, MB FCARSCI MSc.    "
+107.0,VHSE,4576    ,"Dr. J. McDonnell,                       "
+167.0,VHSE,0076    ,"Dr. J. J. Magner, MB. BCh. BAO FCA RCSI."
+237.0,VHSE,11412   ,Dr. Suresh Chittoodan MBBS Da DNB MSC   
+239.0,VHSE,11363   ,Dr. Elnazeer Elfaki MBBS FCARCSI        
+722.0,VHSE,11866   ,"Dr. Aoife Keeling, Cons. Radiologist.   "
+735.0,VHSE,5579    ,"Dr. Emer O'Connell, Cons. Radiologist.  "
+849.0,ILH ,4000347 ,"Dr. Sarah Mullins,                      "
+746.0,VHI ,13464   ,"Dr. Ian Murphy,                         "
+622.0,VHSE,8001    ,Consultant Pathologists Tallaght        
+275.0,VHSE,80206   ,Ilyinski Pain (Dr Oleg Ilyinski)        
+320.0,VHSE,2111    ,"Dr. Martin Quinn, Consultant Cardiologis"
+321.0,VHSE,1721    ,"Dr. Niall T. Mulvihill, M.D., F.R.C.P.I."
+247.0,VHSE,2935    ,DR. RACHEL O'FARRELL                    
+303.0,VHSE,5547    ,                                        
+637.0,VHSE,3399    ,"Dr. S. Knowles, Consultant Pathologist. "
+618.0,VHSE,8216    ,"Consultant Pathologists.St. Lukes,Dublin"
+221.0,VHSE,5406    ,"Dr. Fasih Khan, MBBS FFARSCI            "
+746.0,LAYA,39332   ,"Dr. Ian Murphy,                         "
+310.0,VHSE,5368    ,Dr. Richard Farrell.                    
+156.0,VHSE,4365    ,"Dr. K McKeating,                        "
+314.0,VHSE,80031   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+328.0,VHSE,3576    ,"Mr. Parnell Keeling, MCh FRCSI FACS     "
+166.0,VHSE,2693    ,"Dr. M. B. Donnelly, M.B., F.F.A.R.C.S.I."
+801.0,VHSE,753     ,Dr. Patricia Fitzgerald (Claim forms)   
+717.0,VHSE,458     ,"Dr. J. Thornton, M.D.                   "
+655.0,VHSE,10193   ,ST. MICHAEL'S PATHOLOGY GROUP           
+564.0,VHSE,9003    ,Consultant Radiologists.(Loughlinstown) 
+652.0,VHSE,2428    ,"Dr. E. Mulcahy, MB Bch BAO FCAP FFPath  "
+325.0,VHSE,11545   ,Dr. Malik Mumtaz Ahmed Minhas           
+319.0,VHSE,5193    ,"Prof. Alan Watson, MD FRCPI FACP FCP    "
+327.0,VHSE,10566   ,"Mr. Ross Kingston, MCh FRCSI            "
+804.0,VHSE,00000   ,Beaumont Hospital Project               
+758.0,VHSE,9005    ,Connolly Radiology Associates           
+329.0,VHSE,1667    ,Mr. Michael Arthur Murphy MD FRCSI FRCS 
+966.0,VHSE,00000   ,Limerick Anaesthesia Group (Test)       
+333.0,VHSE,12134   ,"Dr. A. N. Other., F.R.C.S.I.,           "
+736.0,VHSE,12550   ,"NI MHUIRCHEARTAIGH, NEASA               "
+589.0,VHSE,5516    ,"Prof. Michael J. Lee, FRCPI FRCR FFR    "
+313.0,VHSE,1721    ,"Dr. Niall T. Mulvihill, MD, FRCPI       "
+500.0,VHSE,3427    ,"Consultant Radiologists Temple St.,     "
+253.0,VHSE,64      ,DR. GEHAD ELBASTIWASY                   
+219.0,VHSE,5310    ,"Dr. Carmel Wall,                        "
+705.0,VHSE,9331    ,Consultant Radiologists (Naas)          
+950.0,VHSE,123456  ,Test Anaesthetist Consultant            
+750.0,VHSE,12615   ,DR. JOE COYLE CONSULTANT RADIOLOGIST    
+106.0,VHSE,7074    ,"DR'S O'CRONIN & MINOGUE,                "
+525.0,VHSE,9506    ,                                        
+528.0,VHSE,5619    ,"Dr. M. P. O'Sullivan, FRCSI., FRCR.     "
+541.0,VHSE,5235    ,Dr. Kieran Carroll.                     
+129.0,VHSE,5071    ,"Dr. B. M. T. O'Kelly, FFARCSI.          "
+203.0,VHSE,7802    ,TALLAGHT INTENSIVE CARE CON GRP         
+806.0,VHSE,13065   ,Dr. Paul Hartel                         
+759.0,VHSE,9308    ,TRALEE RADIOLOGY GROUP                  
+246.0,VHSE,12845   ,SIVUH Anaesthesia Group                 
+725.0,VHSE,11823   ,"Dr. Jennifer Kerr, Cons. Radiologist.   "
+225.0,VHSE,4197    ,"Dr. Eugene O'Kelly, MB BCH FFARCS       "
+185.0,VHSE,240     ,"Dr. Clare Murray, MB BCh BaO FFARCSI.   "
+254.0,VHSE,10878   ,DR. KAROL MOSIEJ                        
+258.0,VHSE,000000  ,MATER PRIVATE CORK ANAESTHESIA GROUP    
+654.0,VHSE,497     ,"Dr. Peter N. Faul, FRCPATH MRCPI FCAP   "
+344.0,VHSE,11701   ,"Mr. Marcus Butler,                      "
+586.0,VHSE,1138    ,                                        
+719.0,VHSE,3386    ,"Dr. D. Brophy, M.D.                     "
+625.0,VHSE,8223    ,Consultant Pathologists (SVUH / SVPH)   
+703.0,VHSE,9802    ,Con. Rad. Group.(Tal Int Med)           
+836.0,VHSE,80546   ,Janusz Krawczyk Consultancy Limited     
+112.0,VHSE,7223    ,Consultant Anaesthetists Grp. SVUH      
+249.0,VHSE,4423    ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+700.0,VHSE,10520   ,"Dr. Deirdre Duke, Consultant Radiologist"
+600.0,VHSE,4953    ,Dr.Niamh Nolan - Consultant Pathologist 
+197.0,VHSE,2218    ,"Dr. Stephen Mannion,                    "
+575.0,VHSE,5254    ,"Dr Frank McGrath, Consultant Radiologist"
+629.0,VHSE,6061    ,"Prof. William W. Hall, Ph.D., M.D.      "
+741.0,VHSE,12906   ,Mr. Darren Lui                          
+332.0,VHSE,11305   ,"Dr. John Holian, FRCPI, PhD.            "
+274.0,VHSE,80007   ,Dr Brendan Conroy Unlimited             
+686.0,VHSE,13123   ,Dr. Deirdre Brady                       
+125.0,VHSE,2694    ,"Dr. John Boylan,                        "
+170.0,VHSE,5723    ,"Dr. J. Lyons,                           "
+605.0,VHSE,4920    ,Prof. Susan Kennedy.                    
+581.0,VHSE,6198    ,"Dr. S. Ryan, Consultant Radiologist.    "
+726.0,VHSE,10882   ,"Dr. G. J. Albuquerque, MBChB FCRAD FRCR."
+335.0,VHSE,2215    ,"PROF. PAUL F.RIDGWAY, MD MMEDSC FRCSI   "
+188.0,VHSE,6304    ,"Dr. Juliet McAleese,                    "
+653.0,VHSE,0000    ,"Dr. James O'Driscoll, Cons. Pathologist."
+255.0,VHSE,64      ,DR. GEHAD ELBASTAWISY                   
+739.0,VHSE,11028   ,"MR DARAGH MONELEY, VASCULAR SURGEON     "
+702.0,VHSE,9007    ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+635.0,VHSE,3127    ,Dr. P. Thornton Consultant Haematologist
+261.0,VHSE,3772    ,"DR. ALAN MCSHANE MB,BSC,FRCPI,FFARCSI   "
+638.0,VHSE,8207    ,Consultant Pathologists Loughlinstown   
+672.0,VHSE,12155   ,Dr. Olubunmi Ipadeola. M.B. F.R.C.P.I.  
+679.0,VHSE,3651    ,"PROF MARY LEADER,HISTOPATHOLOGIST       "
+740.0,VHSE,844     ,"DR. MARY KEOGAN, BSC MD FRCPI FRCPATH   "
+683.0,VHSE,12811   ,Dr. Khairin Ezlin Mohamed Khalib        
+336.0,VHSE,12305   ,"MR. ALFONSO ANTEQUERA, MD, PHD, FACS    "
+226.0,VHSE,10984   ,"Dr. Miriam Harnett, MB FFARCSI          "
+646.0,VHSE,8625    ,Consultant Pathologists (Beacon)        
+647.0,VHSE,8625    ,Consultant Pathologists Group           
+171.0,VHSE,2663    ,"Dr. Neil J. McDonald, F.F.A.R.C.S.I.    "
+242.0,VHSE,4684    ,"Dr. Valerie Pollard M.B, F.F.A.R.C.S.I  "
+322.0,VHSE,3779    ,"Mr. Eadhbhard Mulligan, M.D., F.R.C.S.I."
+633.0,VHSE,2933    ,"Dr. Edmond Smyth, MB., FRCPI.           "
+852.0,VHSE,VHI852  ,                                        
+640.0,VHSE,849     ,"Dr. Clive Kilgallen, MB FRCPI FRCPath.  "
+706.0,VHSE,11195   ,"Dr. Mark Given, MB BCh BAO FRCSI FFRCR  "
+715.0,VHSE,11803   ,"Dr. Patrick Sparrow, MD, MRCPI, FRCR    "
+103.0,VHSE,638     ,"Dr. James Gardiner,                     "
+316.0,VHSE,2111    ,"Dr Martin Quinn, Consultant Cardiologist"
+208.0,VHSE,3056    ,"Dr. Jawad Mustafa,                      "
+617.0,VHSE,8135    ,Pathologists:  James Connolly Memorial. 
+194.0,VHSE,2054    ,"Dr. Arabella Fahy,                      "
+257.0,VHSE,10846   ,DR. OLEG ILYINSKI                       
+718.0,VHSE,6576    ,"Dr. M. Logan, M.D.                      "
+709.0,VHSE,11569   ,"Dr Eoghan Laffan, Consultant Radiologist"
+676.0,VHSE,8625    ,Beacon Pathology Group                  
+704.0,VHSE,9155    ,Consultant Radiologists. Beaumont Clinic
+331.0,VHSE,10885   ,"Dr. Colm C. Magee, M.D., M.P.H.         "
+612.0,VHSE,8515    ,Consultant Pathologists Drogheda        
+326.0,VHSE,10566   ,"Mr. Ross Kingston, MCh FRCSI            "
+800.0,VHSE,9137    ,Bons Rad Grp (Claim forms)              
+756.0,VHSE,12874   ,Dr Suhail Muzaffar                      
+645.0,VHSE,8625    ,Beacon Pathology Group.(Histology)      
+558.0,VHSE,9000    ,Louth & Meath Radiology Group           
+276.0,VHSE,12845   ,SIVUH Anaesthesia Group                 
+169.0,VHSE,211     ,"Dr. Brian Kinirons, F.F.A.R.C.S.I.      "
+594.0,VHSE,3427    ,"Dr. V. Donoghue, FRCR DMRD (Lond).      "
+675.0,VHSE,11475   ,"Dr. Saman Abdulla, F.R.C.Path.          "
+334.0,VHSE,12235   ,"DR. PETER NAUGHTON MD,FRCSI             "
+582.0,VHSE,2634    ,"Dr. C. Brenner, Consultant Radiologist. "
+607.0,VHSE,4931    ,Dr.Nessa O'Donnell                      
+190.0,VHSE,1583    ,"Dr. S. Froese, Consultant Anaesthetist. "
+330.0,VHSE,10562   ,"Mr. Max B. Mahendran, M.D., F.R.C.S.    "
+714.0,VHSE,1       ,                                        
+346.0,VHSE,80045   ,Prof. Peter Conlon Unlimited            
+236.0,VHSE,2188    ,Dr. Bairbre Golden MB BCH BAO FCARCSI   
+681.0,VHSE,0646    ,Dr B Loftus MB BCh FRCPath FFPath. RCPI 
+252.0,VHSE,12388   ,"DR.TADHG LYNCH MRCPI,FCARCSI DPM        "
+630.0,VHSE,1       ,"Dr. Michael Jeffers, Con. Pathologist.  "
+639.0,VHSE,10193   ,"Pathology Consultants, St. Michaels Hosp"
+265.0,VHSE,7625    ,BEACON ICU GROUP                        
+250.0,VHSE,1050    ,DR. L.G. CONROY - COMFORT IN PAIN       
+263.0,VHSE,80091   ,DR. EUGENE O'KELLY UNLIMITED COMPANY    
+340.0,VHSE,80246   ,"Dr Martin Quinn, Quinn Cardiology LTD   "
+712.0,VHSE,11996   ,"Dr. W. Benfayed, Consultant Radiologist."
+572.0,VHSE,9155    ,Consultant Radiologists.(Beaumont)      
+733.0,VHSE,123420  ,DR. ANGELA O'BRIEN                      
+644.0,VHSE,8625    ,Beacon Pathology Group.(Haematology)    
+753.0,VHSE,6671    ,Dr. Neil Hickey FFR RCSI                
+734.0,VHSE,12797   ,SLK Imaging Ltd                         
+324.0,VHSE,6346    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+338.0,VHSE,11607   ,Dr. Brendan Doyle                       
+621.0,VHSE,8515    ,Consultant Pathologists Lourdes Hospital
+746.0,ILH ,2740061 ,"Dr. Ian Murphy,                         "
+148.0,VHSE,5490    ,"Dr. Masud Awan, Consultant Anaesthetist "
+206.0,VHSE,3957    ,"Dr. Jennifer M. Porter MD, MB, FFARCSI, "
+762.0,VHSE,13094   ,Dr Mihaela Luminita Sirbu               
+574.0,VHSE,3655    ,"Dr. Frank Keeling, LRCP & SI MRCPI FRCR "
+234.0,VHSE,6722    ,"Dr. Richard Burrows, MB BCh FAC (SA)    "
+272.0,VHSE,4423    ,"DR. JOSEPH LEE M.B.,M.S.,F.F.A.R.C.S.I  "
+597.0,VHSE,10256   ,Dr Martina Morrin Consultant Radiologist
+803.0,VHSE,12967   ,Dr. Francisco Sevilla                   
+193.0,VHSE,1045    ,Dr. Ingrid Browne MB BCh BAO FFARCSI    
+592.0,VHSE,9137    ,Bons Radiology Group                    
+323.0,VHSE,6346    ,"Prof. Peter J. Conlon, F.R.C.P.I.       "
+851.0,VHSE,VHI851  ,"Dr. Vourneen Healy, Test Account        "
+854.0,VHSE,VHI854  ,Dr. Peter N. Faul (Test Account)        
+872.0,VHSE,VHI872  ,                                        
+727.0,VHSE,11919   ,Dr Niamh Hambly MBBChBAO MRCPI FFRRCSI  
+345.0,VHSE,12345   ,MR. PHILIP BRADY CONSULTANT ORTHOPAEDIC 
+159.0,VHSE,1050    ,"Dr. L. G. Conroy,                       "
+143.0,VHSE,5374    ,"Dr Saud Khawar Bajwa,                   "
+273.0,VHSE,80093   ,"Dr. Fasih Khan, MBBS FFARSCI            "
+723.0,VHSE,5105    ,"Dr. C. Williams, MD FFRRCSI FRCR        "
+678.0,VHSE,4863    ,"Prof. Nollaig Parfrey, Cons. Pathologist"
+661.0,VHSE,11833   ,BLACKROCK CLINIC PATHOLOGY GRP          
+670.0,VHSE,421     ,Dr. Brian Hennessy MD MRCPI FRCPath     
+805.0,VHSE,8213    ,Laboratory Medicine Service             
+808.0,VHSE,8213    ,Laboratory Medicine Service             
+590.0,VHSE,14678   ,Crumlin Hospital Radiology Group        
+659.0,VHSE,11647   ,Dr Stephen Finn MB PhD FRCPath          
+251.0,VHSE,11092   ,DR. CARLA GLYNN                         
+269.0,VHSE,14691   ,Dr. Jawad Mustafa                       
+755.0,VHSE,12886   ,"Dr. Ian Robinson, M.D.                  "
+599.0,VHSE,753     ,Dr. Patricia Fitzgerald.                
+118.0,VHSE,3165    ,"Dr. Patrick J. Breen, DCH., FFARCSI.    "
+271.0,VHSE,80203   ,Teknit Medical Ltd (Dr. Tamilmani)      
+224.0,VHSE,2209    ,"Dr. Elizabeth Connolly, (Anaesthetist)  "
+150.0,VHSE,5601    ,"Dr Michael Coughlan,                    "
+308.0,VHSE,10165   ,"Dr. Catriona Lawlor, BSC MD FRCS(C)     "
+810.0,VHSE,13191   ,Blood Sciences Partnership              
+341.0,VHSE,10588   ,"Mr. Christopher Mascott M.D.,FRCS(C)    "
+673.0,VHSE,8005    ,General Pathology Group S.E. Region.    
+262.0,VHSE,7168    ,D2 ANAESTHESIA HG                       
+240.0,VHSE,80646   ,Dr Aftab Alam Baloch Incorporated Ltd   
+724.0,VHSE,3357    ,"Dr. John O'Callaghan, Cons. Radiologist."
+682.0,VHSE,12667   ,DR. SINEAD MCNICHOLAS                   
+174.0,VHSE,1091    ,"Dr. Brendan Conroy,                     "
+238.0,VHSE,80649   ,SG Anaesthesia Ltd.                     
+657.0,VHSE,14574   ,Dr. Anne Gilleece                       
+277.0,VHSE,80243   ,Dr Tadhg Lynch Unlimited                
+674.0,VHSE,8515    ,Navan Pathology Group                   
+626.0,VHSE,6594    ,"Dr. Philip G. Murphy, MSc, MD. FRCPath. "
+701.0,VHSE,9636    ,Consultant Radiologists.(Tullamore)     
+802.0,VHSE,6677    ,Dr. Eoghan Mooney                       
+309.0,VHSE,6710    ,"Mr. Arnold D. K. Hill, M.Ch., F.R.C.S.I."
+687.0,VHSE,13205   ,Tallaght Histopathology Group           
+232.0,VHSE,7074    ,Consultant Anaesthetists Grp Mercy Hosp 
+102.0,VHSE,2861    ,"Dr Katrina O'Sullivan,                  "
+267.0,VHSE,1091    ,Dr. Brendan Conroy                      
+207.0,VHSE,10042   ,Dr. Ola Petter Rosaeg MB BCh(NUI) FRCPC 
+666.0,VHSE,12169   ,HERMITAGE HISTOPATHOLOGY GROUP          
+304.0,VHSE,5547    ,"Prof. Cathal J. Kelly, MCh FRCSI FRCSI  "
+187.0,VHSE,4218    ,"Dr. Patrick Benson, FFARCSI, DABA.      "
+270.0,VHSE,12845   ,SIVUH Anaesthesia Group                 
+656.0,VHSE,8207    ,Consultant Pathologists Loughlinstown   
+248.0,VHSE,10191   ,DR. MOHAN MUGAWAR                       
+343.0,VHSE,3779    ,MR. EADHBHARD MULLIGAN                  
+669.0,VHSE,13061   ,Dr. Rosemary Fitzgerald                 
+713.0,VHSE,11818   ,"Dr. Ailbhe Tarrant, Cons. Radiologist   "
+175.0,VHSE,1564    ,"Dr. Robert Concannon,                   "
+671.0,VHSE,11746   ,"Dr. Kirsten Schaffer, M.D., F.R.C.P.I.  "
+230.0,VHSE,76      ,"Dr JJ Magner,BEACON CHIEF OF ANAESTHESIA"
+256.0,VHSE,12624   ,DR. NIALL FANNING                       
+684.0,VHSE,13097   ,Dr. Emer Caffrey                        
+543.0,VHSE,9802    ,TALLAGHT RADIOLOGY GROUP                
+144.0,VHSE,5265    ,"Dr. S. A. A. Bokhari,                   "
+757.0,VHSE,13153   ,Dr. Susanna Frost                       
+155.0,VHSE,7168    ,D2 Anaesthesia MG                       
+339.0,VHSE,73      ,Dr. Michael De Buitléir M.D. F.A.C.C    
+315.0,VHSE,80031   ,"Mr. Eadhbhard Mulligan, MD FRCSI        "
+547.0,VHSE,2809    ,"Dr. Michael G. Courtney, MB., FRCPI.    "
+347.0,VHSE,80350   ,Mr. John Curran                         
+999.0,VHSE,87654321,*** Test Consultant **** FOR VHI ONLY   
+122.0,VHSE,1881    ,"Dr. Brian Ferris, FFARCS.               "
+573.0,VHSE,9004    ,"DR.THORNTON, DR.BRENNAN & DR.O'HARE     "
+730.0,VHSE,9308    ,Tralee Radiology Group                  
+212.0,VHSE,3053    ,"Dr. Joseph F. Costello,MB, FCARCSI      "
+337.0,VHSE,12235   ,"DR. PETER NAUGHTON,MD,FRCSI(DUPLEX ONLY)"
+264.0,VHSE,11440   ,DR. ANTHONY HENNESSY                    
+668.0,VHSE,11656   ,"Dr. Susan FitzGerald, MB. MRCPI FRCPath."
+570.0,VHSE,9007    ,CK DIAGNOSTICS LTD (RADIOLOGY GRP)      
+728.0,VHSE,12080   ,DR SEAMUS LOOBY CONSULTANT RADIOLOGIST  
+266.0,VHSE,12952   ,Limerick Anaesthesia Group              
+812.0,VHSE,13281   ,Beacon Blood Sciences Partnership       
+634.0,VHSE,8203    ,Consultant Pathologists (Rotunda)       
+611.0,VHSE,8506    ,Consultant Pathologists Group. Dundalk  
+260.0,VHSE,80075   ,DR. JJ MAGNER INCORPORATED              
+732.0,VHSE,9610    ,HF DIAGNOSTICS                          
+807.0,VHSE,13089   ,Expert Histopathology Group             
+348.0,VHSE,1518    ,Mr. Joe Sparkes                         
+816.0,VHSE,80255   ,Beech Medical Practice Ltd.             
+636.0,VHSE,6569    ,"Dr. Gerard Boran, Consultant Pathologist"
+278.0,VHSE,13229   ,Dr. Gráinne Mc Dermott                  
+811.0,VHSE,13241   ,Blackthorn Pathology Partners           
+243.0,VHSE,13252   ,Dr. Alan Broderick                      
+658.0,VHSE,11494   ,"Dr. Jerome Fennell, Cons. Microbiologist"
+817.0,VHSE,13386   ,Dr. Andrew McGrath                      
+820.0,VHSE,80618   ,Professor Philip Murphy                 
+821.0,VHSE,80618   ,Professor Philip Murphy                 
+813.0,VHSE,        ,Dr. Niamh Leonard                       
+214.0,VHSE,12845   ,South Infirmary Anaesthetist Group      
+822.0,VHSE,494     ,Professor John Flynn                    
+824.0,VHSE,2233    ,Professor David Keane                   
+823.0,VHSE,13541   ,Dr. Anna-Rose Prior                     
+826.0,VHSE,13250   ,Dr. Claire O'Driscoll                   
+827.0,VHSE,492     ,Dr. Malcolm Little                      
+828.0,VHSE,4166    ,Professor Eugene Connolly               
+829.0,VHSE,12398   ,Dr. Janusz Krawczyk                     
+830.0,VHSE,10971   ,Dr. Amjad Hayat                         
+282.0,VHSE,13228   ,Dr. Siaghal Mac Colgáin                 
+688.0,VHSE,13097   ,Dr. Emer Caffrey                        
+832.0,VHSE,13250   ,Dr. Claire O'Driscoll                   
+838.0,VHSE,13614   ,Dr. Sinead McDermott                    
+846.0,VHSE,13541   ,Dr. Anna-Rose Prior                     
+281.0,VHSE,12985   ,Dr. Anca Grigoras                       
+833.0,VHSE,10199   ,Dr. Stephanie Curran                    
+834.0,VHSE,626     ,Dr. Dermot Murnane                      
+283.0,VHSE,13728   ,Dr. Steven Smith                        
+791.0,VHSE,12345   ,TUH Microbiology Group                  
+847.0,VHSE,13546   ,Dr. Susanne Schneider                   
+855.0,VHSE,10127   ,Dr. Aisling O'Riordan                   
+119.0,VHSE,80456   ,Brookhill Medical Limited               
+349.0,VHSE,13762   ,Dr. Constantin Ovidiu Suciu             
+835.0,VHSE,10705   ,Dr. John Coyne                          
+354.0,VHSE,10174   ,Professor Paul Neary                    
+873.0,VHSE,13852   ,Dr. Liam Smyth                          
+956.0,VHSE,9876543 ,Dr Claimform Demo                       
+841.0,VHSE,13873   ,Dr. Sebastian McWilliams                
+368.0,VHSE,80523   ,Doyle Cariac Care Unlimited Company     
+318.0,VHSE,11032   ,Prof Elizabeth Connolly MB BCH BAO FRCSI
+844.0,VHSE,14003   ,Dr. Laura Ryan                          
+284.0,VHSE,80477   ,Dr James O'Leary Cons.Anaesthetist      
+285.0,VHSE,80555   ,Peter Lee / Laoi Anaesthesiology Ltd    
+286.0,VHSE,80086   ,"Dr John Owens, Consultant Anaesthetist  "
+289.0,VHSE,12199   ,Dr. James O'Driscoll                    
+287.0,VHSE,11403   ,Dr Nollag O'Rourke                      
+290.0,VHSE,80121   ,Dr. Denise McCarthy                     
+353.0,VHSE,14163   ,Professor Peter Neary                   
+291.0,VHSE,80241   ,"Dr. Mona Mubarak, Cons Anaesthetist     "
+742.0,VHSE,13408   ,Rian Diagnostics Ltd                    
+292.0,VHSE,12749   ,Mater Private Anaesthetist Group        
+299.0,VHSE,5786    ,Dr. Daniel Mullane                      
+355.0,VHSE,80217   ,Dr. Osama Al Sahaf                      
+268.0,VHSE,14034   ,Dr. Ihsan Butt                          
+694.0,GMA ,7313    ,Beaumont HR Pathology Group             
+694.0,ESB ,PAT104  ,Beaumont HR Pathology Group             
+837.0,VHI ,80674   ,"Dr. Claudio Lizarralde, CL Histo Ltd    "
+261.0,ESB ,MCS43   ,Dr. Alan McShane.                       
+279.0,GMA ,7211    ,Dr. Alan McShane                        
+279.0,ESB ,MCS43   ,Dr. Alan McShane                        
+694.0,VHI ,14414   ,Beaumont HR Pathology Group             
+689.0,VHI ,14416   ,Beaumont Microbiology Group             
+690.0,VHI ,14407   ,Northside Histopathology Group          
+692.0,VHI ,14417   ,Beaumont Neuropathology Group           
+694.0,LAYA,55215   ,Beaumont HR Pathology Group             
+695.0,VHI ,14419   ,Dr. Brendan Doyle                       
+695.0,GMA ,7202    ,Dr. Brendan Doyle                       
+279.0,LAYA,70619   ,Dr. Alan McShane                        
+279.0,VHI ,14427   ,Dr. Alan McShane                        
+279.0,ILH ,3641717 ,Dr. Alan McShane                        
+690.0,LAYA,55216   ,Northside Histopathology Group          
+689.0,LAYA,55217   ,Beaumont Microbiology Group             
+765.0,ESB ,ROT04   ,Rotunda Radiology Associates            
+689.0,ILH ,3648048 ,Beaumont Microbiology Group             
+690.0,ILH ,3648070 ,Northside Histopathology Group          
+692.0,ILH ,3648053 ,Beaumont Neuropathology Group           
+694.0,ILH ,3648077 ,Beaumont HR Pathology Group             
+765.0,GMA ,7234    ,Rotunda Radiology Associates            
+695.0,ILH ,3640039 ,Dr. Brendan Doyle                       
+765.0,ILH ,3663189 ,Rotunda Radiology Associates            
+765.0,LAYA,55220   ,Rotunda Radiology Associates            
+840.0,VHI ,14450   ,Dr. Ruth Dunne                          
+765.0,VHI ,80720   ,Rotunda Radiology Associates            
+280.0,ESB ,BUC28   ,Dr. Aisling Buckley                     
+280.0,GMA ,7310    ,Dr. Aisling Buckley                     
+279.0,POMA,5939    ,Dr Alan McShane                         
+280.0,LAYA,70724   ,Dr. Aisling Buckley                     
+280.0,ILH ,3728168 ,Dr. Aisling Buckley                     
+280.0,VHI ,14520   ,Dr. Aisling Buckley                     
+861.0,LAYA,70743   ,Histopathology Team at Blackrock Unltd  
+861.0,GMA ,4296    ,Histopathology Team at Blackrock Unltd  
+861.0,POMA,5946    ,Histopathology Team at Blackrock Unltd  
+825.0,LAYA,39327   ,Dr. Sarah Maira Bergin                  
+825.0,VHI ,13469   ,Dr. Sarah Maira Bergin                  
+825.0,ILH ,2741569 ,Dr. Sarah Maira Bergin                  
+825.0,GMA ,6103    ,Dr. Sarah Maira Bergin                  
+825.0,ESB ,BER08   ,Dr. Sarah Maira Bergin                  
+861.0,ESB ,DOR08   ,Histopathology Team at Blackrock Unltd  
+696.0,ESB ,BEA15   ,Beaumont Chemical Pathology Group       
+861.0,ILH ,3779910 ,Histopathology Team at Blackrock Unltd  
+696.0,ILH ,3783400 ,Beaumont Chemical Pathology Group       
+861.0,VHI ,14532   ,Histopathology Team at Blackrock Unltd  
+696.0,GMA ,7381    ,Beaumont Chemical Pathology Group       
+770.0,ESB ,MUL71   ,Dr. Douglas Mulholland                  
+770.0,GMA ,7363    ,Dr. Douglas Mulholland                  
+770.0,ILH ,3804961 ,Dr. Douglas Mulholland                  
+770.0,LAYA,70794   ,Dr. Douglas Mulholland                  
+770.0,VHI ,14576   ,Dr. Douglas Mulholland                  
+126.0,ESB ,SOU01   ,SIVUH Anaesthesia Group                 
+126.0,GMA ,5293    ,SIVUH Anaesthesia Group                 
+126.0,ILH ,1594685 ,SIVUH Anaesthesia Group                 
+126.0,LAYA,55170   ,SIVUH Anaesthesia Group                 
+126.0,POMA,3438    ,SIVUH Anaesthesia Group                 
+126.0,VHI ,12845   ,SIVUH Anaesthesia Group                 
+126.0,VHSE,12845   ,SIVUH Anaesthesia Group                 
+127.0,VHI ,12842   ,Dr. Michael O'Sullivan                  
+127.0,LAYA,38700   ,Dr. Michael O'Sullivan                  
+127.0,ILH ,2284633 ,Dr. Michael O'Sullivan                  
+127.0,ESB ,OSU69   ,Dr. Michael O'Sullivan                  
+127.0,GMA ,5527    ,Dr. Michael O'Sullivan                  
+771.0,ESB ,MCC119  ,Dr. Yvonne McCartney                    
+771.0,GMA ,7486    ,Dr. Yvonne McCartney                    
+744.0,VHI ,14536   ,Dr. Anthony Cullen                      
+744.0,LAYA,70739   ,Dr. Anthony Cullen                      
+744.0,ILH ,3745993 ,Dr. Anthony Cullen                      
+649.0,VHI ,2933    ,Dr. Edmond Smyth                        
+649.0,LAYA,30453   ,Dr. Edmond Smyth                        
+649.0,ILH ,1237972 ,Dr. Edmond Smyth                        
+649.0,GMA ,1032    ,Dr. Edmond Smyth                        
+649.0,ESB ,SMY02   ,Dr. Edmond Smyth                        
+649.0,VHSE,2933    ,Dr. Edmond Smyth                        
+137.0,ESB ,WOO07   ,"Woodgrove Medical Ltd,                  "
+137.0,GMA ,7501    ,"Woodgrove Medical Ltd,                  "
+137.0,VHI ,80802   ,Woodgrove Medical Ltd                   
+771.0,VHI ,14645   ,Dr. Yvonne McCartney                    
+136.0,ESB ,SMA04   ,Dr. Izabela Smadu                       
+136.0,GMA ,7514    ,Dr. Izabela Smadu                       
+771.0,LAYA,70943   ,Dr. Yvonne McCartney                    
+136.0,ILH ,3900337 ,Dr. Izabela Smadu                       
+137.0,ILH ,3900164 ,Woodgrove Medical Ltd                   
+633.0,POMA,6085    ,Dr. Edmond Smyth                        
+771.0,ILH ,3873591 ,Dr. Yvonne McCartney                    
+772.0,GMA ,7526    ,Dr. Terence Farrell                     
+772.0,ESB ,FAR30   ,Dr. Terence Farrell                     
+772.0,ILH ,3903288 ,Dr. Terence Farrell                     
+137.0,LAYA,70958   ,Woodgrove Medical Ltd                   
+745.0,ILH ,3886573 ,Dr. Stephen Burke                       
+745.0,ESB ,BUR37   ,Dr. Stephen Burke                       
+745.0,GMA ,7473    ,Dr. Stephen Burke                       
+745.0,LAYA,70954   ,Dr. Stephen Burke                       
+136.0,LAYA,70963   ,Dr. Izabela Smadu                       
+772.0,LAYA,70971   ,Dr. Terence Farrell                     
+280.0,POMA,6110    ,Dr. Aisling Buckley                     
+862.0,VHI ,80808   ,Mr Emmet Cullen Orthopaedics Unlimited  
+862.0,LAYA,70966   ,Mr Emmet Cullen Orthopaedics Unlimited  
+862.0,ILH ,3081488 ,Mr Emmet Cullen Orthopaedics Unlimited  
+862.0,ESB ,CUL09   ,Mr Emmet Cullen Orthopaedics Unlimited  
+862.0,GMA ,6467    ,Mr Emmet Cullen Orthopaedics Unlimited  
+862.0,POMA,5671    ,Mr Emmet Cullen Orthopaedics Unlimited  
+269.0,POMA,6134    ,Dr. Jawad Mustafa                       
+136.0,VHI ,14694   ,Dr. Izabela Smadu                       
+137.0,POMA,6166    ,Woodgrove Medical Ltd                   
+409.0,POMA,6185    ,Dr. Daniel Mullane Broadstrand Ltd      
+409.0,ESB ,BRO50   ,Dr. Daniel Mullane Broadstrand Ltd      
+409.0,ILH ,3962778 ,Dr. Daniel Mullane Broadstrand Ltd      
+409.0,LAYA,71058   ,Dr. Daniel Mullane Broadstrand Ltd      
+409.0,VHI ,80839   ,Dr. Daniel Mullane Broadstrand Ltd      
+410.0,ESB ,BUC29   ,Dr.Aisling Buckley Limited              
+409.0,GMA ,7624    ,Dr. Daniel Mullane Broadstrand Ltd      
+410.0,GMA ,7627    ,Dr.Aisling Buckley Limited              
+410.0,ILH ,3977727 ,Dr.Aisling Buckley Limited              
+410.0,LAYA,71072   ,Dr.Aisling Buckley Limited              
+410.0,VHI ,80852   ,Dr.Aisling Buckley Limited              
+848.0,VHI ,14775   ,"Dr. Aoife Doyle,                        "
+746.0,ESB ,MUR143  ,"Dr. Ian Murphy,                         "
+746.0,GMA ,6123    ,"Dr. Ian Murphy,                         "
+849.0,VHI ,14777   ,"Dr. Sarah Mullins,                      "
+863.0,VHI ,11500   ,Dr. Florrie Daniels                     
+863.0,ILH ,776974  ,Dr. Florrie Daniels                     
+863.0,LAYA,37204   ,Dr. Florrie Daniels                     
+863.0,GMA ,4383    ,Dr. Florrie Daniels                     
+863.0,ESB ,DAN02   ,Dr. Florrie Daniels                     
+108.0,ESB ,NAL02   ,Dr. Kristiana Nali                      
+104.0,VHI ,80864   ,Switzer Medical Unlimited Company       
+108.0,GMA ,7707    ,Dr. Kristiana Nali                      
+108.0,LAYA,71157   ,Dr. Kristiana Nali                      
+773.0,GMA ,7744    ,Dr. James Ryan                          
+773.0,ESB ,RYA60   ,Dr. James Ryan                          
+109.0,VHI ,10483   ,"Anaesthesia Care Ltd,                   "
+109.0,LAYA,36127   ,"Anaesthesia Care Ltd,                   "
+109.0,ILH ,1573145 ,"Anaesthesia Care Ltd,                   "
+109.0,GMA ,4523    ,"Anaesthesia Care Ltd,                   "
+109.0,ESB ,GH002   ,"Anaesthesia Care Ltd,                   "
+773.0,ILH ,4053590 ,Dr. James Ryan                          
+773.0,LAYA,71211   ,Dr. James Ryan                          
+747.0,ILH ,4078262 ,ALETICHNR UNLIMITED COMPANY             
+747.0,VHI ,80886   ,ALETICHNR UNLIMITED COMPANY             
+747.0,GMA ,7791    ,ALETICHNR UNLIMITED COMPANY             
+747.0,ESB ,ALE06   ,ALETICHNR UNLIMITED COMPANY             
+839.0,VHI ,11624   ,"Dr. Frans Colesky,                      "
+839.0,LAYA,38518   ,"Dr. Frans Colesky,                      "
+839.0,ILH ,4076359 ,"Dr. Frans Colesky,                      "
+839.0,ESB ,COL47   ,"Dr. Frans Colesky,                      "
+356.0,VHI ,14850   ,Mr. Cillian Clancy                      
+839.0,GMA ,7785    ,"Dr. Frans Colesky,                      "
+356.0,LAYA,71213   ,Mr. Cillian Clancy                      
+356.0,ILH ,4071450 ,Mr. Cillian Clancy                      
+138.0,VHI ,12845   ,SIVUH Anaesthesia Group                 
+138.0,LAYA,55170   ,SIVUH Anaesthesia Group                 
+138.0,ILH ,1294685 ,SIVUH Anaesthesia Group                 
+138.0,POMA,3438    ,SIVUH Anaesthesia Group                 
+138.0,ESB ,SOU01   ,SIVUH Anaesthesia Group                 
+138.0,GMA ,5293    ,SIVUH Anaesthesia Group                 
+839.0,POMA,6421    ,"Dr. Frans Colesky,                      "
+356.0,POMA,6428    ,Mr. Cillian Clancy                      
+356.0,ESB ,CLA29   ,Mr. Cillian Clancy                      
+356.0,GMA ,7796    ,Mr. Cillian Clancy                      
+747.0,LAYA,71252   ,ALETICHNR UNLIMITED COMPANY             
+856.0,POMA,6453    ,Dermot Murnane Limited                  
+856.0,ESB ,MUR169  ,Dermot Murnane Limited                  
+856.0,GMA ,7818    ,Dermot Murnane Limited                  
+856.0,ILH ,4097243 ,Dermot Murnane Limited                  
+856.0,LAYA,71290   ,Dermot Murnane Limited                  
+773.0,VHI ,14914   ,Dr. James Ryan                          
